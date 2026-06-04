@@ -1,0 +1,8 @@
+name: racer-cdc-2026
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.9
+  - numpy
+  - pandas
+  - matplotlib
