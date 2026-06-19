@@ -1,5 +1,5 @@
 """
-Plot average CAISO 5-minute LMP traces for the data centers in one figure.
+Plot finalized CAISO 5-minute LMP traces for the data centers in one figure.
 """
 
 import os
@@ -13,14 +13,14 @@ import pandas as pd
 
 
 SCRIPT_DIR = Path(__file__).resolve().parent
-INPUT_PATH = SCRIPT_DIR / "caiso_lmp_average_at5dc.csv"
-OUTPUT_PATH = SCRIPT_DIR / "caiso_average_lmp_at5dc.png"
+INPUT_PATH = SCRIPT_DIR / "caiso_finalized.csv"
+OUTPUT_PATH = SCRIPT_DIR / "caiso_finalized_lmp_at5dc.png"
 
-META_COLUMNS = ["Date", "Data Center", "Latitude", "Longitude", "NODE"]
+META_COLUMNS = ["Date", "Data Center", "Latitude", "Longitude", "NODE", "Unnamed: 5"]
 
 
 def main() -> None:
-    df = pd.read_csv(INPUT_PATH, skiprows=1)
+    df = pd.read_csv(INPUT_PATH)
     time_columns = [col for col in df.columns if col not in META_COLUMNS]
 
     fig, ax = plt.subplots(figsize=(13, 5.8), constrained_layout=True)
@@ -34,9 +34,9 @@ def main() -> None:
         ax.plot(x, values, linewidth=1.8, color=color, label=row["Data Center"])
 
     date = df["Date"].iloc[0]
-    ax.set_title(f"Average CAISO 5-Minute LMP at Five Data Centers ({date})", fontsize=15)
+    ax.set_title(f"Finalized CAISO 5-Minute LMP at Five Data Centers ({date})", fontsize=15)
     ax.set_xlabel("Time of day", fontsize=12)
-    ax.set_ylabel("Average LMP ($/MWh)", fontsize=12)
+    ax.set_ylabel("LMP ($/MWh)", fontsize=12)
     ax.set_xticks(tick_positions)
     ax.set_xticklabels(tick_labels, rotation=45, ha="right")
     ax.grid(True, alpha=0.25, linewidth=0.8)
