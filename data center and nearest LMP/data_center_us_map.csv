@@ -1,0 +1,1577 @@
+Map Label,Market,Data Center,Latitude,Longitude,Selected,Status,State,Source File
+,Not selected,Stak Energy Data Center,69.90071,-148.81477,False,Proposed,AK,Data_Centers_Database.xlsx
+,Not selected,Prudhoe Bay Data Center,70.18478,-148.44,False,Operating,AK,Data_Centers_Database.xlsx
+,Not selected,Grant County Data Center,34.3065,-92.4045,False,Proposed,AK,Data_Centers_Database.xlsx
+,Not selected,Project Marvel,33.342,-87.0341,False,Proposed,AL,Data_Centers_Database.xlsx
+,Not selected,BHM01 Nebius Data Center,33.42746,-86.88143,False,Proposed,AL,Data_Centers_Database.xlsx
+,Not selected,DC Blox,33.50051,-86.821,False,Operating,AL,Data_Centers_Database.xlsx
+,Not selected,Google Data Center,34.92019,-85.7446,False,Operating,AL,Data_Centers_Database.xlsx
+,Not selected,Western Hospitality Partners Data Center,33.34088,-86.336205,False,Proposed,AL,Data_Centers_Database.xlsx
+,Not selected,DC Blox,34.71003,-86.693,False,Operating,AL,Data_Centers_Database.xlsx
+,Not selected,Meta Data Center,34.84065,-86.6295,False,Operating,AL,Data_Centers_Database.xlsx
+,Not selected,Meta Data Center,32.27604,-86.3287,False,Approved/Permitted/Under construction,AL,Data_Centers_Database.xlsx
+,Not selected,Wilsonville Data Center,33.257,-86.495,False,Proposed,AL,Data_Centers_Database.xlsx
+,Not selected,Clarksville Data Center,35.454384,-93.44725,False,Proposed,AR,Data_Centers_Database.xlsx
+,Not selected,Harrison Data Center,36.21472,-93.0786,False,Operating,AR,Data_Centers_Database.xlsx
+,Not selected,Avaio Digital Leo,34.618,-92.26808,False,Proposed,AR,Data_Centers_Database.xlsx
+,Not selected,Data center,34.71681,-92.1737,False,Proposed,AR,Data_Centers_Database.xlsx
+,Not selected,ForgeLight Ventures Data Center,35.01258,-92.55369,False,Proposed,AR,Data_Centers_Database.xlsx
+,Not selected,Brightspeed Data Center,35.27746,-93.1372,False,Operating,AR,Data_Centers_Database.xlsx
+,Not selected,Groot LLC/ Google,35.11835,-90.2123,False,Approved/Permitted/Under construction,AR,Data_Centers_Database.xlsx
+,Not selected,Maricopa Data Center,33.192265,-112.67318,False,Proposed,AZ,Data_Centers_Database.xlsx
+,Not selected,H5 Data Center,33.27716,-111.886,False,Operating,AZ,Data_Centers_Database.xlsx
+,Not selected,Compass Data Center,33.44123,-112.377,False,Approved/Permitted/Under construction,AZ,Data_Centers_Database.xlsx
+,Not selected,Microsoft Data Center,33.410748,-112.36683,False,Expanding,AZ,Data_Centers_Database.xlsx
+,Not selected,Stream Data Center,33.41965,-112.35942,False,Approved/Permitted/Under construction,AZ,Data_Centers_Database.xlsx
+,Not selected,Vantage Data Center,33.44718,-112.373,False,Approved/Permitted/Under construction,AZ,Data_Centers_Database.xlsx
+,Not selected,Vintage Partners ,33.421955,-112.19218,False,Cancelled,AZ,Data_Centers_Database.xlsx
+,Not selected,Project Blue Marana,32.4929,-111.28652,False,Proposed,AZ,Data_Centers_Database.xlsx
+,Not selected,Apple Data Center,33.3471,-111.604,False,Operating,AZ,Data_Centers_Database.xlsx
+,Not selected,Edged Mesa Data Center,33.335518,-111.64406,False,Operating,AZ,Data_Centers_Database.xlsx
+,Not selected,Mesa Amazon Data Center 1,33.29757,-111.607,False,Proposed,AZ,Data_Centers_Database.xlsx
+,Not selected,Mesa Amazon Data Center 2,33.34263,-111.604,False,Proposed,AZ,Data_Centers_Database.xlsx
+,Not selected,Meta Data Center,33.35076,-111.67,False,Approved/Permitted/Under construction,AZ,Data_Centers_Database.xlsx
+,Not selected,NTT Data Center,33.29556,-111.614,False,Approved/Permitted/Under construction,AZ,Data_Centers_Database.xlsx
+,Not selected,NTT Data Center,33.35061,-111.61,False,Operating,AZ,Data_Centers_Database.xlsx
+,Not selected,Page Data Center,36.898376,-111.483154,False,Proposed,AZ,Data_Centers_Database.xlsx
+,Not selected,Aligned,33.65898,-112.111,False,Operating,AZ,Data_Centers_Database.xlsx
+,Not selected,Expedient Data Center,33.56452,-112.112,False,Operating,AZ,Data_Centers_Database.xlsx
+,Not selected,PHX1,33.56456,-112.112,False,Operating,AZ,Data_Centers_Database.xlsx
+,Not selected,QTS,33.46237,-111.996,False,Operating,AZ,Data_Centers_Database.xlsx
+,Not selected,QTS,33.45193,-112.072,False,Operating,AZ,Data_Centers_Database.xlsx
+,Not selected,Tract Phoenix Data Center,33.41019,-112.713,False,Approved/Permitted/Under construction,AZ,Data_Centers_Database.xlsx
+,Not selected,MD-PHX1 Data Center,33.31197,-111.97816,False,Proposed,AZ,Data_Centers_Database.xlsx
+,Not selected,Vermaland Data Center,32.55145,-111.452,False,Proposed,AZ,Data_Centers_Database.xlsx
+,Not selected,Prime Data Center,33.41237,-112.30683,False,Approved/Permitted/Under construction,AZ,Data_Centers_Database.xlsx
+,Not selected,Arizona Land Consulting Co.,33.49648,-112.775,False,Proposed,AZ,Data_Centers_Database.xlsx
+,Not selected,Data center: Davis-Monthan Air Force Base,32.164318,-110.86484,False,Proposed,AZ,Data_Centers_Database.xlsx
+,Not selected,Project Blue Tucson,32.05091,-110.783,False,Cancelled,AZ,Data_Centers_Database.xlsx
+,Not selected,Aligned Data Centers Waddell Campus,33.57577,-112.45042,False,Approved/Permitted/Under construction,AZ,Data_Centers_Database.xlsx
+,Not selected,Takanock Data Center/Project Baccara,33.56755,-112.37177,False,Proposed,AZ,Data_Centers_Database.xlsx
+,Not selected,Guadalupe Quarry Redevelopment Project Data Center,37.68586,-122.416,False,Proposed,CA,Data_Centers_Database.xlsx
+,Not selected,Coachella Valley Technology Campus,33.6714,-116.129,False,Proposed,CA,Data_Centers_Database.xlsx
+,Not selected,Edwards AFB Data Center,34.912052,-117.93109,False,Proposed,CA,Data_Centers_Database.xlsx
+,Not selected,AWS Gilroy,37.018684,-121.56053,False,Approved/Permitted/Under construction,CA,Data_Centers_Database.xlsx
+,Not selected,Imperial Data Center Project,32.81923,-115.56083,False,Approved/Permitted/Under construction,CA,Data_Centers_Database.xlsx
+,Not selected,Buena Vista Biomass Power site Data Center,38.277733,-120.91554,False,Proposed,CA,Data_Centers_Database.xlsx
+,Not selected,Monterey Park Data Center,34.04039,-118.11365,False,Suspended,CA,Data_Centers_Database.xlsx
+,Not selected,ECL,37.39589,-122.047,False,Operating,CA,Data_Centers_Database.xlsx
+,Not selected,AWS,34.16684,-118.08752,False,Proposed,CA,Data_Centers_Database.xlsx
+,Not selected,AVAIO Perseus Data Center,38.012596,-121.90993,False,Approved/Permitted/Under construction,CA,Data_Centers_Database.xlsx
+,Not selected,EdgeConneX Edge Data Center,38.59231,-121.277,False,Operating,CA,Data_Centers_Database.xlsx
+,Not selected,Equinix,37.23319,-121.78072,False,Approved/Permitted/Under construction,CA,Data_Centers_Database.xlsx
+,Not selected,LBA Realty Data Center,37.381,-121.935,False,Proposed,CA,Data_Centers_Database.xlsx
+,Not selected,Microsoft Alviso Data Center,37.42374,-121.926254,False,Approved/Permitted/Under construction,CA,Data_Centers_Database.xlsx
+,Not selected,Prologis,37.423885,-121.94313,False,Proposed,CA,Data_Centers_Database.xlsx
+,Not selected,Colovore,37.37668,-121.953,False,Operating,CA,Data_Centers_Database.xlsx
+,Not selected,Colovore,37.37739,-121.953,False,Operating,CA,Data_Centers_Database.xlsx
+,Not selected,CoreSite SV9,37.37492,-121.969,False,Proposed,CA,Data_Centers_Database.xlsx
+,Not selected,Digital Realty SJC14,37.37578,-121.95516,False,Proposed,CA,Data_Centers_Database.xlsx
+,Not selected,Digital Realty SJC37 Data Center,37.371067,-121.94693,False,Approved/Permitted/Under construction,CA,Data_Centers_Database.xlsx
+,Not selected,EdgeConneX Edge Data Center Santa Clara,37.36431,-121.959,False,Operating,CA,Data_Centers_Database.xlsx
+,Not selected,EdgeCore Data Center,37.38413,-121.965744,False,Operating,CA,Data_Centers_Database.xlsx
+,Not selected,Walsh Bowers Technology Center: CoreSite,37.37316,-121.976166,False,Expanding,CA,Data_Centers_Database.xlsx
+,Not selected,Nautilus Data Technology,37.96411,-121.369,False,Operating,CA,Data_Centers_Database.xlsx
+,Not selected,Cerebras Systems Data Center,37.38112,-121.993,False,Operating,CA,Data_Centers_Database.xlsx
+,Not selected,Menlo Equities Data Centere,37.400707,-122.03299,False,Proposed,CA,Data_Centers_Database.xlsx
+,Not selected,Digital Data Center,34.00368,-118.229675,False,Proposed,CA,Data_Centers_Database.xlsx
+,Not selected,DEN1,39.58275,-104.841,False,Operating,CO,Data_Centers_Database.xlsx
+,Not selected,Colorado Springs Data Center,38.99734,-104.792,False,Operating,CO,Data_Centers_Database.xlsx
+,Not selected,Project Taurus,38.893997,-104.85778,False,Proposed,CO,Data_Centers_Database.xlsx
+,Not selected,CoreSite DE1 Data Center,39.74566,-104.99561,False,Operating,CO,Data_Centers_Database.xlsx
+,Not selected,CoreSite DE2 Data Center,39.745472,-104.97931,False,Operating,CO,Data_Centers_Database.xlsx
+,Not selected,CoreSite DE3 Data Center,39.785824,-104.962845,False,Approved/Permitted/Under construction,CO,Data_Centers_Database.xlsx
+,Not selected,Cielo Digital Infrastructure,40.09549,-104.609,False,Proposed,CO,Data_Centers_Database.xlsx
+,Not selected,Sterling Data Center,40.85,-103.45,False,Proposed,CO,Data_Centers_Database.xlsx
+,Not selected,Global AI,40.458607,-104.87199,False,Proposed,CO,Data_Centers_Database.xlsx
+,Not selected,Atlas Capital Group,41.88474,-72.7435,False,Proposed,CT,Data_Centers_Database.xlsx
+,Not selected,GotSpace Data Center,41.5586,-72.1706,False,Proposed,CT,Data_Centers_Database.xlsx
+,Not selected,NE Edge Data Center,41.31387,-72.1673,False,Proposed,CT,Data_Centers_Database.xlsx
+,Not selected,Starwood Digital Ventures,39.60745,-75.6397,False,Suspended,DE,Data_Centers_Database.xlsx
+,Not selected,Fort Meade Data Center,27.79178,-81.8185,False,Approved/Permitted/Under construction,FL,Data_Centers_Database.xlsx
+,Not selected,Sentinel Grove Technology Park/ Project Jarvis,27.45444,-80.55799,False,Suspended,FL,Data_Centers_Database.xlsx
+,Not selected,Cielo Digital Infrastructure,28.17875,-81.6457,False,Proposed,FL,Data_Centers_Database.xlsx
+,Not selected,"""Project Swan""",28.03012,-82.00534,False,Proposed,FL,Data_Centers_Database.xlsx
+,Not selected,Project Tango,26.694838,-80.37178,False,Approved/Permitted/Under construction,FL,Data_Centers_Database.xlsx
+,Not selected,HostDime Data Center,28.6146,-81.3857,False,Proposed,FL,Data_Centers_Database.xlsx
+,Not selected,Iron Mountain Data Center,25.88661,-80.2539,False,Approved/Permitted/Under construction,FL,Data_Centers_Database.xlsx
+,Not selected,Okee-One ,27.307442,-80.82401,False,Cancelled,FL,Data_Centers_Database.xlsx
+,Not selected,H5 Data Center ,27.949581,-82.45849,False,Proposed,FL,Data_Centers_Database.xlsx
+,Not selected,Eagle Rock Jones County,32.91274,-83.472046,False,Suspended,GA,Data_Centers_Database.xlsx
+,Not selected,Dixon Data Center/Project Sassy,34.37998,-85.034,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Project Springbank,34.30926,-84.9633,False,Cancelled,GA,Data_Centers_Database.xlsx
+,Not selected,Alpharetta GA1,34.063183,-84.272896,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,ATL2,34.057144,-84.273,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Atlanta-Alpharetta,34.086994,-84.25179,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,AT&T Data Center,34.086506,-84.27612,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Project JGK,33.49546,-82.337,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,White Oak Technology Park,33.51421,-82.34112,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Athens Studio Data Center ,33.970966,-83.31563,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Adair Park / West End Data Center,33.739025,-84.41105,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,American Tower EDC Atlanta,33.68953,-84.51075,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,ATL1,33.926537,-84.32673,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,ATL2 Colo Data Center,33.761627,-84.39127,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Atlanta,33.75543,-84.39146,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Atlanta AT1,33.75585,-84.39107,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Atlanta ATL12,33.657166,-84.41514,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Atlanta ATL13,33.75543,-84.39146,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Atlanta ATL14,33.76157,-84.3915,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Atlanta Metro DC1,33.775944,-84.421074,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Atlanta Metro DC2,33.77647,-84.41955,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Atlanta Metro DC3,33.78121,-84.42252,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Atlanta Metro DC4,33.784534,-84.42251,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,ATLDC 55 Marietta,33.75585,-84.39107,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,AT&T Southern Bell Telephone Company Building,33.7558,-84.3857,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Cogent Data Center Atlanta 1,33.75585,-84.39107,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Cogent Data Center Atlanta 2,33.722496,-84.412796,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Colo@ Atlanta Data Center #3,33.83952,-84.37284,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Coloblox SMY1 Data Center,33.88972,-84.465515,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,ColoCrossing GA1,33.755016,-84.389626,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,DataBank ATL1 Data Center,33.775368,-84.387764,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,DataBank ATL1 Midtown Atlanta Data Center,33.77551,-84.38868,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,DataBank ATL2 Data Center,33.733864,-84.425735,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,DataBank ATL3 Data Center,33.73448,-84.4265,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,DataBank ATL4 Data Center,33.750492,-84.54815,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Digital Realty 10 Forsyth Street NW Data Center,33.755455,-84.39201,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,EDC ATL01,33.72936,-84.42015,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,EDC ATL02,33.731815,-84.42362,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,EdgeConneX,33.635,-84.5819,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Edged ATL01-1,33.8084,-84.45469,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Edged ATL01-2,33.8084,-84.45469,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Edged ATL01-3,33.8084,-84.45469,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Equinix Atlanta AT1,33.758602,-84.387856,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Equinix Atlanta AT2 AT3,33.75543,-84.39146,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Equinix Atlanta AT4,33.895363,-84.453636,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,FOGO Atlanta,33.75543,-84.39146,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,H5 Atlanta,33.76513,-84.38366,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Intero Systems,33.61318,-84.44704,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Lumen Atlanta 2,33.758602,-84.387856,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Lumen Atlanta 5,33.728493,-84.41872,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Lumen Atlanta 6,33.75479,-84.358734,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Lumen Doraville 1,33.90809,-84.236206,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Marrietta Data Center,33.884117,-84.47229,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Microsoft: Project Fulton,33.64121,-84.5167,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,QTS,33.77595,-84.421074,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Southern Telecom Atlanta,33.762527,-84.387886,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Stonewall Tell Data Center,33.615124,-84.55222,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Sungard Availability Services Atlanta Data Center,33.78344,-84.38862,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Vantage Data Centers Stacks Road Campus,33.60657,-84.5304,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Vantage: Westlake Project,33.70682,-84.5833,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Windstream Atlanta,33.835022,-84.32718,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,T5: Project Eisenhower,33.43883,-82.1557,False,Approved/Permitted/Under construction,GA,Data_Centers_Database.xlsx
+,Not selected,Barnesville Amazon Data Center,33.05563,-84.1222,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Trammell Crow Company Data Center,33.104168,-84.009544,False,Approved/Permitted/Under construction,GA,Data_Centers_Database.xlsx
+,Not selected,Project Blue Hole,31.406675,-84.912994,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Project Ruby,32.581497,-84.71003,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,FOGO Carrollton,33.558292,-85.09067,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Project Bunkhouse,34.0998,-84.9167,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Switch,34.11429,-84.7938,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,ATL Data Center,33.614918,-84.467186,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Lumen College Park,33.63764,-84.458496,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Microsoft Union City Data Center Campus,33.62499,-84.56204,False,Approved/Permitted/Under construction,GA,Data_Centers_Database.xlsx
+,Not selected,Stacks/College Park,33.708233,-84.52996,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,JMF IXP Farm Colombus,32.498444,-84.883575,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,DC BLOX Atlanta East Campus,33.68936,-84.04566,False,Approved/Permitted/Under construction,GA,Data_Centers_Database.xlsx
+,Not selected,Rockdale Technology Park,33.68682,-84.05222,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Project Splice,31.97113,-83.7316,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Amazon Covington Data Center,33.63342,-83.833015,False,Approved/Permitted/Under construction,GA,Data_Centers_Database.xlsx
+,Not selected,Project Lighthouse,33.653538,-83.81398,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Serverfarm ATL2,33.61121,-83.83438,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,CORE DALTON 4,34.68098,-84.94408,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Core Scientific,34.6883,-84.9408,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Dalton,34.71316,-84.95143,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Dalton 3,34.701214,-84.95039,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Data center,34.76418,-84.9711,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Atlanta-Douglasville 1,33.73072,-84.61699,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Atlanta-Douglasville 2,33.730686,-84.61119,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Douglasville Campus,33.73178,-84.61917,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Vantage Data Center,33.71054,-84.6269,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Project Eagle,32.63236,-83.5072,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,East Point Campus,33.642456,-84.514824,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Clayton Commerce III,33.6353,-84.30396,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Conley Creek Data Center,33.64961,-84.294815,False,Suspended,GA,Data_Centers_Database.xlsx
+,Not selected,Fairburn Technology Center,33.532734,-84.58926,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,T5 ATL IV,33.52815,-84.6147,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Crow Holdings Development ,33.484707,-84.43693,False,Cancelled,GA,Data_Centers_Database.xlsx
+,Not selected,Fairwater 2,33.46006,-84.523994,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,QTS Atlanta Fayetteville Campus/ Project Excalibur,33.447083,-84.52227,False,Approved/Permitted/Under construction,GA,Data_Centers_Database.xlsx
+,Not selected,QTS ATL2 East,33.454353,-84.51676,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Digital Realty Fort Gillem Campus,33.61974,-84.329025,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Rumble Technology Campus,32.99113,-83.8368,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Project Turbo,34.226425,-83.78167,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Eagle Rock Partners LLC and Thomas & Hutton Engineering Data Center,32.91623,-83.382996,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Crooked Creek Data Center,32.937828,-83.396965,False,Cancelled,GA,Data_Centers_Database.xlsx
+,Not selected,75 South Data Center Campus,33.256115,-84.14383,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Project Spalding,33.24653,-84.2326,False,Approved/Permitted/Under construction,GA,Data_Centers_Database.xlsx
+,Not selected,Spalding Investments LLC Data Center,33.24212,-84.19505,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Wallace Jackson Data Center Campus,33.273514,-84.12198,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,0 Rocky Creek Data Center Campus,33.40101,-84.2243,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Hampton Data Center,33.384445,-84.26329,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Rocky Creek,33.40127,-84.22438,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Pumpkin Tech Campus,33.418,-82.316,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Hogansville Data Center,33.14624,-84.94037,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,River Park,33.276512,-84.09031,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Project Pegasus,32.98697,-85.05588,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Project West,32.96313,-85.0219,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Lamar County Amazon Data Center,33.1795,-84.0563,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Data Bank ATL5 Data Center,33.7474,-84.5403,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Switch Atlanta - The KEEP Campus,33.770504,-84.590355,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Atlanta ATL1a,33.74414,-84.581215,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Atlanta ATL1b,33.74414,-84.581215,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,DC BLOX Atlanta West Campus,33.733944,-84.615234,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Digital Realty Atlanta ATL11 Data Center,33.74681,-84.5797,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Lithia Springs Google Data Center,33.749466,-84.584785,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Microsoft: FTY101,33.7318,-84.6192,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,PWC Lithia Springs,33.74222,-84.59638,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Rock House Road Data Center,33.749,-84.6093,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,STACK Atlanta ATL02,33.76018,-84.6017,False,Approved/Permitted/Under construction,GA,Data_Centers_Database.xlsx
+,Not selected,Switch Atlanta: The Keep Campus,33.756165,-84.59596,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,T5 @ Atlanta III,33.763447,-84.604774,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Bolingbroke Technology Campus,32.94087,-83.8188,False,Suspended,GA,Data_Centers_Database.xlsx
+,Not selected,Stream Data Center,33.738323,-84.80737,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Atlanta AT2,33.925495,-84.48163,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Grindcap,33.99401,-84.5527,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Marietta Data Center,33.994106,-84.552986,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Northern Data,34.2525,-83.5614,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Central Coweta Industrial Phase II,33.42518,-84.72857,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Project Sail,33.43413,-84.8768,False,Approved/Permitted/Under construction,GA,Data_Centers_Database.xlsx
+,Not selected,T5 @ Atlanta IV,33.49088,-84.66487,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Atlanta-Norcross,33.95475,-84.198616,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Equinix Atlanta AT5,33.938904,-84.2272,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Project Arrowhead,31.59873,-83.37431,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Gregory Road Data Center,33.65342,-83.8231,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Palmetto Campus,33.52662,-84.636375,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Project Peach,33.50277,-84.6692,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,T5,33.49292,-84.6615,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Atlas Battey Business Complex,34.2664,-85.3029,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Project Firecracker (Microsoft),34.30175,-85.3087,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Project Gracie (Atlas Development),34.26722,-85.2995,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Project Sassy,34.36917,-85.0482,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Rome Campus,34.300987,-85.30927,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Athens Shoals Crossing Data Center,33.988262,-83.30194,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Smyrna GA2,33.841206,-84.522415,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Verizon Atlanta,33.8291,-84.503174,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,0 Social Circle Parkway Data Center,33.664944,-83.68987,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Stanton Springs Data Center ,33.60278,-83.698616,False,Expanding,GA,Data_Centers_Database.xlsx
+,Not selected,Westlake,33.708332,-84.584564,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Edge Presence,32.43269,-81.76039,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,ATL1 - Atlanta Data Center,34.03615,-84.06378,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Atlanta Suwanee DC1,34.035347,-84.06126,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Atlanta Suwanee DC2,34.03704,-84.05765,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,QTS Suwanee,34.03671,-84.06008,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Project Bus,33.709145,-85.06483,False,Suspended,GA,Data_Centers_Database.xlsx
+,Not selected,Upson County Megasite,32.885147,-84.24026,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Project Azalea,33.453014,-82.39851,False,Approved/Permitted/Under construction,GA,Data_Centers_Database.xlsx
+,Not selected,Microsoft ,33.518105,-84.578316,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Project Rita Campus,33.517883,-84.57948,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,ATL03/Red Oak,33.56321,-84.5129,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Union City Data Center,33.562943,-84.5134,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Valdosta Data Center,30.885855,-83.32822,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Atlas ,33.70841,-84.9497,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Avemore GA LLC Data Center,33.70459,-84.94,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Hickman Property,33.707703,-84.86278,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Robins Air Force Base Data Center,32.6389,-83.592094,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Stream Atlanta West Data Center,33.739944,-84.80678,False,Operating,GA,Data_Centers_Database.xlsx
+,Not selected,Stream Data Center,33.73446,-84.8097,False,Proposed,GA,Data_Centers_Database.xlsx
+,Not selected,Mililani Technology Park,21.480452,-158.02138,False,Expanding,HI,Data_Centers_Database.xlsx
+,Not selected,Applied Digital,41.46419,-94.6051,False,Proposed,IA,Data_Centers_Database.xlsx
+,Not selected,Edged DSM01-1 Data Center,41.65646,-93.5616,False,Approved/Permitted/Under construction,IA,Data_Centers_Database.xlsx
+,Not selected,Simple Mining,42.2922,-91.0185,False,Proposed,IA,Data_Centers_Database.xlsx
+,Not selected,Simple Mining,42.480602,-92.48979,False,Proposed,IA,Data_Centers_Database.xlsx
+,Not selected,Cedar Rapids Google Data Center,41.90651,-91.7155,False,Proposed,IA,Data_Centers_Database.xlsx
+,Not selected,Council Bluffs Google Data Center,41.22147,-95.864914,False,Operating,IA,Data_Centers_Database.xlsx
+,Not selected,Edged Data Center,41.27521,-95.8246,False,Proposed,IA,Data_Centers_Database.xlsx
+,Not selected,Project Osmium,41.49686,-93.7887,False,Operating,IA,Data_Centers_Database.xlsx
+,Not selected,Project Ruthenium ,41.49467,-93.8046,False,Proposed,IA,Data_Centers_Database.xlsx
+,Not selected,Cielo Digital Infrastructure,41.57011,-93.5839,False,Proposed,IA,Data_Centers_Database.xlsx
+,Not selected,Dubuque Data Center,42.44434,-90.679,False,Operating,IA,Data_Centers_Database.xlsx
+,Not selected,QTS Fairfax Data Center,41.89881,-91.7211,False,Approved/Permitted/Under construction,IA,Data_Centers_Database.xlsx
+,Not selected,Project West ,41.45822,-93.70044,False,Proposed,IA,Data_Centers_Database.xlsx
+,Not selected,IA01 Data Center,41.6204,-93.854,False,Expanding,IA,Data_Centers_Database.xlsx
+,Not selected,DSM14 ,41.51406,-93.7142,False,Approved/Permitted/Under construction,IA,Data_Centers_Database.xlsx
+,Not selected,Project Alluvion ,41.51533,-93.7107,False,Operating,IA,Data_Centers_Database.xlsx
+,Not selected,Project Ginger East (Microsoft),41.51475,-93.7212,False,Proposed,IA,Data_Centers_Database.xlsx
+,Not selected,Project Ginger West,41.5346,-93.8656,False,Approved/Permitted/Under construction,IA,Data_Centers_Database.xlsx
+,Not selected,Project Mountain,41.53982,-93.8242,False,Operating,IA,Data_Centers_Database.xlsx
+,Not selected,Deep Atomic Data Center,43.51967,-112.04594,False,Proposed,ID,Data_Centers_Database.xlsx
+,Not selected,Edged Data Center,41.80707,-88.24102,False,Approved/Permitted/Under construction,IL,Data_Centers_Database.xlsx
+,Not selected,US Signal Data Center,41.772236,-88.21706,False,Operating,IL,Data_Centers_Database.xlsx
+,Not selected,Barrington Hills Data Center,42.102898,-88.228096,False,Cancelled,IL,Data_Centers_Database.xlsx
+,Not selected,Western Hospitality Partners Data Center,41.256397,-88.2417,False,Suspended,IL,Data_Centers_Database.xlsx
+,Not selected,HydraVault Data Center,41.84624,-87.6257,False,Approved/Permitted/Under construction,IL,Data_Centers_Database.xlsx
+,Not selected,Karis Critical Data Center,41.894,-88.7222,False,Proposed,IL,Data_Centers_Database.xlsx
+,Not selected,Gail Technology Data Center,39.16273,-88.51865,False,Proposed,IL,Data_Centers_Database.xlsx
+,Not selected,Aligned,42.03374,-87.9824,False,Proposed,IL,Data_Centers_Database.xlsx
+,Not selected,Aligned,42.03573,-87.9766,False,Proposed,IL,Data_Centers_Database.xlsx
+,Not selected,Aligned,42.03674,-87.9827,False,Proposed,IL,Data_Centers_Database.xlsx
+,Not selected,Nexstar Media Group Data Center,42.01142,-88.0317,False,Proposed,IL,Data_Centers_Database.xlsx
+,Not selected,Stream Data Center,42.01401,-87.95375,False,Proposed,IL,Data_Centers_Database.xlsx
+,Not selected,Stream Data Center: Chicago 1,42.00269,-87.9518,False,Operating,IL,Data_Centers_Database.xlsx
+,Not selected,Stream Data Center: Chicago 2,41.99923,-87.9578,False,Operating,IL,Data_Centers_Database.xlsx
+,Not selected,T5 Data Center,42.02308,-87.9757,False,Approved/Permitted/Under construction,IL,Data_Centers_Database.xlsx
+,Not selected,Western Hospitality Partners Data Center,40.59457,-89.590225,False,Cancelled,IL,Data_Centers_Database.xlsx
+,Not selected,PowerHouse Data Centers,41.465225,-88.06284,False,Proposed,IL,Data_Centers_Database.xlsx
+,Not selected,PowerHouse Hillwood Holding ,41.46266,-88.05086,False,Approved/Permitted/Under construction,IL,Data_Centers_Database.xlsx
+,Not selected,Hut8 Data Center,39.97475,-89.19171,False,Proposed,IL,Data_Centers_Database.xlsx
+,Not selected,Cloud Centers Data Center,41.801693,-88.06276,False,Proposed,IL,Data_Centers_Database.xlsx
+,Not selected,CyrusOne Data Center,41.84915,-88.0291,False,Approved/Permitted/Under construction,IL,Data_Centers_Database.xlsx
+,Not selected,Cielo Digital Infrastructure,41.45592,-88.2842,False,Proposed,IL,Data_Centers_Database.xlsx
+,Not selected,Tract Morris Data Center,41.39786,-88.37636,False,Proposed,IL,Data_Centers_Database.xlsx
+,Not selected,Karis Critical Data Center,41.81113,-88.1191,False,Cancelled,IL,Data_Centers_Database.xlsx
+,Not selected,Cielo Digital Infrastructure,41.51055,-87.969,False,Proposed,IL,Data_Centers_Database.xlsx
+,Not selected,ORD-01 Data Center,41.91402,-87.9177,False,Operating,IL,Data_Centers_Database.xlsx
+,Not selected,ORD-02 Data Center,41.91273,-87.9172,False,Approved/Permitted/Under construction,IL,Data_Centers_Database.xlsx
+,Not selected,North Pekin Data Center,40.60275,-89.629776,False,Cancelled,IL,Data_Centers_Database.xlsx
+,Not selected,Eagle Rock Data Center,39.504627,-89.37614,False,Proposed,IL,Data_Centers_Database.xlsx
+,Not selected,Troy Cloverleaf Data Center,38.725338,-89.909645,False,Proposed,IL,Data_Centers_Database.xlsx
+,Not selected,CyrusOne,39.54828,-89.89837,False,Approved/Permitted/Under construction,IL,Data_Centers_Database.xlsx
+,Not selected,CyrusOne Data Center,41.68361,-88.4681,False,Proposed,IL,Data_Centers_Database.xlsx
+,Not selected,CyrusOne Data Center,41.6759,-88.4834,False,Approved/Permitted/Under construction,IL,Data_Centers_Database.xlsx
+,Not selected,IND1,39.96264,-86.1456,False,Operating,IN,Data_Centers_Database.xlsx
+,Not selected,QLevr Data Center,38.4303,-85.67671,False,Proposed,IN,Data_Centers_Database.xlsx
+,Not selected,Provident Realty Advisors,41.59884,-87.094,False,Cancelled,IN,Data_Centers_Database.xlsx
+,Not selected,DartPoints Data Center,39.18256,-85.8968,False,Operating,IN,Data_Centers_Database.xlsx
+,Not selected,Karis Critical Data Center,41.43521,-87.3099,False,Proposed,IN,Data_Centers_Database.xlsx
+,Not selected,Wylie Capital Data Center,41.44693,-87.3319,False,Proposed,IN,Data_Centers_Database.xlsx
+,Not selected,Sabey Data Center,39.666195,-86.30182,False,Proposed,IN,Data_Centers_Database.xlsx
+,Not selected,Project Zodiac,41.03761,-85.0481,False,Approved/Permitted/Under construction,IN,Data_Centers_Database.xlsx
+,Not selected,Logistix Data Center,40.3066,-86.5855,False,Suspended,IN,Data_Centers_Database.xlsx
+,Not selected,Granger Data Center Expansion,41.72418,-86.1341,False,Proposed,IN,Data_Centers_Database.xlsx
+,Not selected,Jumping Bison LLC Data Center,39.37664,-85.5201,False,Proposed,IN,Data_Centers_Database.xlsx
+,Not selected,CoreWeave,41.70514,-87.5191,False,Proposed,IN,Data_Centers_Database.xlsx
+,Not selected,Digital Crossroad Data Center,41.70743,-87.5205,False,Operating,IN,Data_Centers_Database.xlsx
+,Not selected,Project Redline,39.82814,-85.7803,False,Proposed,IN,Data_Centers_Database.xlsx
+,Not selected,Sentinel Data Center: Project Shirley,41.28743,-87.2737,False,Proposed,IN,Data_Centers_Database.xlsx
+,Not selected,Hobart Data Center,41.50489,-87.28408,False,Approved/Permitted/Under construction,IN,Data_Centers_Database.xlsx
+,Not selected,American Tower/ ATC Watertown LLC/ Edge Data Center,39.894096,-86.20275,False,Suspended,IN,Data_Centers_Database.xlsx
+,Not selected,Brightwood Data Center,39.80434,-86.1023,False,Approved/Permitted/Under construction,IN,Data_Centers_Database.xlsx
+,Not selected,Lifeline Data Center,39.77702,-86.0434,False,Operating,IN,Data_Centers_Database.xlsx
+,Not selected,Netrality Data Center,39.75977,-86.1723,False,Operating,IN,Data_Centers_Database.xlsx
+,Not selected,Thunderbird Commerce Center Project,39.76848,-86.05339,False,Proposed,IN,Data_Centers_Database.xlsx
+,Not selected,US Signal Data Center,39.87038,-86.2369,False,Operating,IN,Data_Centers_Database.xlsx
+,Not selected,Meta Data Center,38.36471,-85.66,False,Approved/Permitted/Under construction,IN,Data_Centers_Database.xlsx
+,Not selected,Microsoft LaPorte Data Center,41.58093,-86.6924,False,Proposed,IN,Data_Centers_Database.xlsx
+,Not selected,Project Domino,40.05408,-86.538,False,Approved/Permitted/Under construction,IN,Data_Centers_Database.xlsx
+,Not selected,Prologis,41.334984,-85.90404,False,Cancelled,IN,Data_Centers_Database.xlsx
+,Not selected,Jefferson Proving Ground Data Center,38.83886,-85.413666,False,Proposed,IN,Data_Centers_Database.xlsx
+,Not selected,Surge Development LLC,39.8564,-85.8785,False,Cancelled,IN,Data_Centers_Database.xlsx
+,Not selected,Province Group Data Center,41.45333,-87.3033,False,Proposed,IN,Data_Centers_Database.xlsx
+,Not selected,Project Maize,41.57408,-86.7276,False,Proposed,IN,Data_Centers_Database.xlsx
+,Not selected,Project Louie,39.59592,-86.4602,False,Proposed,IN,Data_Centers_Database.xlsx
+,Not selected,Project Flo,39.72007,-85.9992,False,Suspended,IN,Data_Centers_Database.xlsx
+,Not selected,Mall-O-Manor LLC Data Center,41.72029,-86.4905,False,Suspended,IN,Data_Centers_Database.xlsx
+,Not selected,New Carlisle Data Center,41.68848,-86.4736,False,Operating,IN,Data_Centers_Database.xlsx
+,Not selected,Radius Data Center,39.741596,-86.36464,False,Proposed,IN,Data_Centers_Database.xlsx
+,Not selected,Provident Realty Advisors Data Center,41.61319,-87.1014,False,Proposed,IN,Data_Centers_Database.xlsx
+,Not selected,Prologis,39.52904,-85.71126,False,Proposed,IN,Data_Centers_Database.xlsx
+,Not selected,Jeremiah A QTS Data Center,41.50386,-87.2014,False,Suspended,IN,Data_Centers_Database.xlsx
+,Not selected,Jeremiah B QTS Data Center,41.49809,-87.1875,False,Suspended,IN,Data_Centers_Database.xlsx
+,Not selected,Agincourt,41.50217,-87.01344,False,Suspended,IN,Data_Centers_Database.xlsx
+,Not selected,Amazon Data Center,41.22792,-87.00762,False,Proposed,IN,Data_Centers_Database.xlsx
+,Not selected,Mount Sunflower Properties LLC Data Center,38.94522,-95.0297,False,Proposed,KS,Data_Centers_Database.xlsx
+,Not selected,Project Pilot,38.946327,-95.02935,False,Approved/Permitted/Under construction,KS,Data_Centers_Database.xlsx
+,Not selected,Red Wolf Properties,39.12852,-94.8801,False,Proposed,KS,Data_Centers_Database.xlsx
+,Not selected,Alcove Development Data Center,38.516045,-94.931076,False,Proposed,KS,Data_Centers_Database.xlsx
+,Not selected,LFF Industrial ,41.899555,-89.04816,False,Suspended,KS,Data_Centers_Database.xlsx
+,Not selected,Colossus Data Center,38.781784,-94.77902,False,Cancelled,KS,Data_Centers_Database.xlsx
+,Not selected,Muskie Data Campus Data Center,38.399708,-82.79701,False,Proposed,KY,Data_Centers_Database.xlsx
+,Not selected,Ekron Data Center,37.90755,-86.10922,False,Cancelled,KY,Data_Centers_Database.xlsx
+,Not selected,TenKey LandCo ,36.66604,-86.57219,False,Approved/Permitted/Under construction,KY,Data_Centers_Database.xlsx
+,Not selected,Mercer County Data Center,37.769886,-84.77884,False,Proposed,KY,Data_Centers_Database.xlsx
+,Not selected,TeraWulf Data Center,37.941345,-86.78807,False,Proposed,KY,Data_Centers_Database.xlsx
+,Not selected,Project Lincoln: OC Data Center ,38.444557,-85.397995,False,Cancelled,KY,Data_Centers_Database.xlsx
+,Not selected,Project Lincoln: OC Data Center (second version),38.39444,-85.4094,False,Proposed,KY,Data_Centers_Database.xlsx
+,Not selected,Lexington Data center,38.04255,-84.4997,False,Operating,KY,Data_Centers_Database.xlsx
+,Not selected,PowerHouse Data Centers,38.19817,-85.8509,False,Approved/Permitted/Under construction,KY,Data_Centers_Database.xlsx
+,Not selected,Steve Poe's Campground ,38.196014,-85.859985,False,Approved/Permitted/Under construction,KY,Data_Centers_Database.xlsx
+,Not selected,Fortune 500 ,38.663574,-83.86959,False,Proposed,KY,Data_Centers_Database.xlsx
+,Not selected,Project Sophie ,36.61113,-88.3167,False,Operating,KY,Data_Centers_Database.xlsx
+,Not selected,Riot 1,37.08831,-88.70305,False,Expanding,KY,Data_Centers_Database.xlsx
+,Not selected,Riot 2,37.088593,-88.676155,False,Expanding,KY,Data_Centers_Database.xlsx
+,Not selected,State Line Project Data Center campus,32.656498,-93.904144,False,Proposed,LA,Data_Centers_Database.xlsx
+,Not selected,TXLAAR LLC Data Center,32.725018,-93.72789,False,Proposed,LA,Data_Centers_Database.xlsx
+,Not selected,MS Solar Grid Data,30.037401,-89.97886,False,Suspended,LA,Data_Centers_Database.xlsx
+,Not selected,Meta RPL-10X Hyperion/Project Sucre,32.50788,-91.6349,False,Expanding,LA,Data_Centers_Database.xlsx
+,Not selected,DartPoints Data Center,32.51101,-93.7498,False,Operating,LA,Data_Centers_Database.xlsx
+,Not selected,Shreveport Data Center,32.45425,-93.9052,False,Proposed,LA,Data_Centers_Database.xlsx
+,Not selected,River Bend Campus,30.751701,-91.27455,False,Approved/Permitted/Under construction,LA,Data_Centers_Database.xlsx
+,Not selected,River Bend Data Center Campus,30.764305,-91.337296,False,Proposed,LA,Data_Centers_Database.xlsx
+,Not selected,Markely Data Center,42.354603,-71.05991,False,Operating,MA,Data_Centers_Database.xlsx
+,Not selected,Everett Data Center,42.39638,-71.05932,False,Proposed,MA,Data_Centers_Database.xlsx
+,Not selected,Markely Data Center,42.6302,-71.304825,False,Expanding,MA,Data_Centers_Database.xlsx
+,Not selected,Medford Data Center,42.40601,-71.0752,False,Operating,MA,Data_Centers_Database.xlsx
+,Not selected,Servistar Data Center,42.15831,-72.74108,False,Proposed,MA,Data_Centers_Database.xlsx
+,Not selected,Tidepoint,39.27421,-76.5911,False,Operating,MD,Data_Centers_Database.xlsx
+,Not selected,Mag Partners Data Centers,39.26509,-76.6127,False,Proposed,MD,Data_Centers_Database.xlsx
+,Not selected,Dickerson Data Centers,39.209373,-77.46454,False,Proposed,MD,Data_Centers_Database.xlsx
+,Not selected,Aligned IAD-06 ,39.33511,-77.46484,False,Approved/Permitted/Under construction,MD,Data_Centers_Database.xlsx
+,Not selected,Quantum Frederick,39.3343,-77.4679,False,Proposed,MD,Data_Centers_Database.xlsx
+,Not selected,Brightseat Tech Park Data Center,38.91977,-76.8565,False,Suspended,MD,Data_Centers_Database.xlsx
+,Not selected,Eternal Rings Data Center,39.133514,-76.85197,False,Proposed,MD,Data_Centers_Database.xlsx
+,Not selected,Amazon Lusby Data Center,38.42979,-76.45836,False,Proposed,MD,Data_Centers_Database.xlsx
+,Not selected,Morgantown Data Center,38.3596,-76.9757,False,Proposed,MD,Data_Centers_Database.xlsx
+,Not selected,TeraWulf Data Center,38.365482,-76.96935,False,Proposed,MD,Data_Centers_Database.xlsx
+,Not selected,BWI1,39.42716,-76.8118,False,Operating,MD,Data_Centers_Database.xlsx
+,Not selected,Sandy Farms Data Center,39.149693,-76.679955,False,Proposed,MD,Data_Centers_Database.xlsx
+,Not selected,Prosperity Drive Data Center,39.05859,-76.9644,False,Operating,MD,Data_Centers_Database.xlsx
+,Not selected,Security Land and Development LLC Data Center,39.319317,-76.74747,False,Proposed,MD,Data_Centers_Database.xlsx
+,Not selected,DeepGreen Western Passage SPV LLC  Data Center,44.94704,-67.01703,False,Proposed,ME,Data_Centers_Database.xlsx
+,Not selected,Tier III AI Data Center,44.094273,-70.21859,False,Cancelled,ME,Data_Centers_Database.xlsx
+,Not selected,Yankee Nuclear Power Plant Data Center,43.95572,-69.69428,False,Proposed,ME,Data_Centers_Database.xlsx
+,Not selected,Solstice Data Center,42.268654,-83.208176,False,Suspended,MI,Data_Centers_Database.xlsx
+,Not selected,Oppidan Data Center,44.72743,-93.18794,False,Cancelled,MI,Data_Centers_Database.xlsx
+,Not selected,Thor Equities Data Center,42.091705,-83.63743,False,Proposed,MI,Data_Centers_Database.xlsx
+,Not selected,US Signal Data Center,42.23536,-83.4441,False,Expanding,MI,Data_Centers_Database.xlsx
+,Not selected,Microsoft Caledonia Data Center,42.839203,-85.56194,False,Proposed,MI,Data_Centers_Database.xlsx
+,Not selected,Switch Pyramid Data Center,42.852547,-85.560104,False,Approved/Permitted/Under construction,MI,Data_Centers_Database.xlsx
+,Not selected,Microsoft Dorr Data Center,42.737343,-85.68578,False,Proposed,MI,Data_Centers_Database.xlsx
+,Not selected,Hyperscale Data Michigan Data Center,41.992455,-86.098976,False,Operating,MI,Data_Centers_Database.xlsx
+,Not selected,Cloverleaf Infrastructure Data Center,41.997276,-83.66742,False,Suspended,MI,Data_Centers_Database.xlsx
+,Not selected,Southfield Data Center,42.488056,-83.31892,False,Proposed,MI,Data_Centers_Database.xlsx
+,Not selected,Howell Data Center,42.655422,-84.02875,False,Cancelled,MI,Data_Centers_Database.xlsx
+,Not selected,Microsoft Grand Rapids Data Center,42.85125,-85.54604,False,Proposed,MI,Data_Centers_Database.xlsx
+,Not selected,Harbor Farmz Data Center,42.262714,-85.54166,False,Proposed,MI,Data_Centers_Database.xlsx
+,Not selected,Kalamazoo County Data Center,42.243793,-85.51012,False,Suspended,MI,Data_Centers_Database.xlsx
+,Not selected,Rocklocker LLC,44.728703,-85.21632,False,Cancelled,MI,Data_Centers_Database.xlsx
+,Not selected,Deep Green Data Center,42.731003,-84.545654,False,Cancelled,MI,Data_Centers_Database.xlsx
+,Not selected,Lowell Covenant Business Park Data Center ,42.880783,-85.376175,False,Suspended,MI,Data_Centers_Database.xlsx
+,Not selected,Lower Peninsula Data Center,43.66056,-84.6665,False,Proposed,MI,Data_Centers_Database.xlsx
+,Not selected,Alterra Development Corporation Data Center,42.239025,-84.955826,False,Proposed,MI,Data_Centers_Database.xlsx
+,Not selected,Lyon Township Data Center/ Project Flex,42.50185,-83.61119,False,Approved/Permitted/Under construction,MI,Data_Centers_Database.xlsx
+,Not selected,Related Digital/The Barn,42.112755,-83.88956,False,Approved/Permitted/Under construction,MI,Data_Centers_Database.xlsx
+,Not selected,Panattoni Project Cannoli,42.22704,-83.43421,False,Proposed,MI,Data_Centers_Database.xlsx
+,Not selected,Washington Township Data Center,42.80183,-82.99235,False,Proposed,MI,Data_Centers_Database.xlsx
+,Not selected,University of Michigan Los Alamos Data Center,42.20446,-83.5551,False,Proposed,MI,Data_Centers_Database.xlsx
+,Not selected,Amazon Becker Data Center,45.38527,-93.8805,False,Suspended,MN,Data_Centers_Database.xlsx
+,Not selected,TRACT Data Center,44.53196,-92.9268,False,Proposed,MN,Data_Centers_Database.xlsx
+,Not selected,Cielo Digital Infrastructure,45.3618,-92.9186,False,Proposed,MN,Data_Centers_Database.xlsx
+,Not selected,MSP1 Data Center,44.82953,-93.1176,False,Approved/Permitted/Under construction,MN,Data_Centers_Database.xlsx
+,Not selected,TRACT Data Center,44.62754,-93.1229,False,Proposed,MN,Data_Centers_Database.xlsx
+,Not selected,Project Loon,46.77741,-92.28186,False,Suspended,MN,Data_Centers_Database.xlsx
+,Not selected,US Internet Data Center,45.02485,-93.3328,False,Proposed,MN,Data_Centers_Database.xlsx
+,Not selected,Monitcello Data Center,45.275093,-93.81535,False,Proposed,MN,Data_Centers_Database.xlsx
+,Not selected,Project Skyway,44.22483,-92.6442,False,Proposed,MN,Data_Centers_Database.xlsx
+,Not selected,Geronimo Power Data Center,43.711044,-95.6839,False,Suspended,MN,Data_Centers_Database.xlsx
+,Not selected,Columbia Data Center,38.989983,-92.2809,False,Proposed,MO,Data_Centers_Database.xlsx
+,Not selected,Festus Data Center,38.19273,-90.41881,False,Proposed,MO,Data_Centers_Database.xlsx
+,Not selected,Nebius Data Center,39.073467,-94.332855,False,Approved/Permitted/Under construction,MO,Data_Centers_Database.xlsx
+,Not selected,Wildwood Ranch Data Center,37.06882,-94.60008,False,Approved/Permitted/Under construction,MO,Data_Centers_Database.xlsx
+,Not selected,Cielo Digital Infrastructure,39.01764,-94.5668,False,Proposed,MO,Data_Centers_Database.xlsx
+,Not selected,Meta Data Kansas City Center,39.32488,-94.6011,False,Operating,MO,Data_Centers_Database.xlsx
+,Not selected,Project Kestrel ,39.35368,-94.6967,False,Proposed,MO,Data_Centers_Database.xlsx
+,Not selected,Project Micah ,39.31801,-94.5773,False,Approved/Permitted/Under construction,MO,Data_Centers_Database.xlsx
+,Not selected,Revitalization Unlimited Data Center,39.10256,-94.58718,False,Proposed,MO,Data_Centers_Database.xlsx
+,Not selected,Shenandoah Computing Data Center,39.17474,-94.46181,False,Proposed,MO,Data_Centers_Database.xlsx
+,Not selected,Metrobloks data center,39.207073,-94.45517,False,Proposed,MO,Data_Centers_Database.xlsx
+,Not selected,Metrobloks/ Lincoln Data Center,39.20711,-94.45515,False,Proposed,MO,Data_Centers_Database.xlsx
+,Not selected,Lumon Solutions Data Center,37.366604,-92.883446,False,Proposed,MO,Data_Centers_Database.xlsx
+,Not selected,Swarm Systems Data Center,37.331158,-92.921234,False,Proposed,MO,Data_Centers_Database.xlsx
+,Not selected,ReLoad Data Center,40.255207,-94.97283,False,Proposed,MO,Data_Centers_Database.xlsx
+,Not selected,Project Tiger Zou,39.345898,-92.44693,False,Proposed,MO,Data_Centers_Database.xlsx
+,Not selected,Project Green ,38.905663,-91.41777,False,Proposed,MO,Data_Centers_Database.xlsx
+,Not selected,Project Spade ,38.8889,-91.440025,False,Proposed,MO,Data_Centers_Database.xlsx
+,Not selected,BLE Landholdings Data Center,38.434536,-90.75512,False,Proposed,MO,Data_Centers_Database.xlsx
+,Not selected,Project Harper,38.74797,-94.4821,False,Cancelled,MO,Data_Centers_Database.xlsx
+,Not selected,Sarcoxie Data Center,37.13561,-94.09406,False,Proposed,MO,Data_Centers_Database.xlsx
+,Not selected,Project Cumulus,38.81535,-90.5454,False,Proposed,MO,Data_Centers_Database.xlsx
+,Not selected,St Charles Data Center,38.82242,-90.5378,False,Proposed,MO,Data_Centers_Database.xlsx
+,Not selected,,38.630444,-90.20682,False,Operating,MO,Data_Centers_Database.xlsx
+,Not selected,Netrality Data Centers St. Louis- 210 North Tucker ,38.62937,-90.1973,False,Operating,MO,Data_Centers_Database.xlsx
+,Not selected,Netrality Data Centers St. Louis - 900 Walnut,38.62554,-90.1953,False,Operating,MO,Data_Centers_Database.xlsx
+,Not selected,Tierpoint Data Center,38.63161,-90.2377,False,Proposed,MO,Data_Centers_Database.xlsx
+,Not selected,TierPoint - St Louis Olive Data Center,38.62968,-90.1963,False,Operating,MO,Data_Centers_Database.xlsx
+,Not selected,Provident Data Center,38.480186,-90.8453,False,Proposed,MO,Data_Centers_Database.xlsx
+,Not selected,AVAIO Digital,32.26581,-90.015,False,Approved/Permitted/Under construction,MS,Data_Centers_Database.xlsx
+,Not selected,Amazon Madison Mega Site,32.595333,-90.09618,False,Operating,MS,Data_Centers_Database.xlsx
+,Not selected,Clarksville Data Center,34.148582,-90.541466,False,Proposed,MS,Data_Centers_Database.xlsx
+,Not selected,Amazon Clinton Data Center,32.34915,-90.36636,False,Proposed,MS,Data_Centers_Database.xlsx
+,Not selected,Project Atlas,32.49415,-90.1675,False,Proposed,MS,Data_Centers_Database.xlsx
+,Not selected,Amazon Ridgeland,32.41277,-90.190216,False,Approved/Permitted/Under construction,MS,Data_Centers_Database.xlsx
+,Not selected,xAI ,34.992947,-90.03358,False,Proposed,MS,Data_Centers_Database.xlsx
+,Not selected,Project Steamboat,32.256226,-90.9371,False,Proposed,MS,Data_Centers_Database.xlsx
+,Not selected,Quantica LLC Big Sky Campus,45.89389,-108.88078,False,Proposed,MT,Data_Centers_Database.xlsx
+,Not selected,Butte Data Center,45.99697,-112.66617,False,Cancelled,MT,Data_Centers_Database.xlsx
+,Not selected,TAC Data Centers: Project Cardinal,47.52962,-111.179,False,Proposed,MT,Data_Centers_Database.xlsx
+,Not selected,Krambu ,46.872646,-113.86772,False,Proposed,MT,Data_Centers_Database.xlsx
+,Not selected,Quantica Data Center,46.04485,-108.273,False,Proposed,MT,Data_Centers_Database.xlsx
+,Not selected,DartPoints Data Center,35.48821,-82.5582,False,Operating,NC,Data_Centers_Database.xlsx
+,Not selected,CLT10 Data Center,35.2219,-80.8356,False,Operating,NC,Data_Centers_Database.xlsx
+,Not selected,Digital Reality Charlotte Data Center,35.255707,-80.99796,False,Proposed,NC,Data_Centers_Database.xlsx
+,Not selected,Project Agate,35.73274,-81.2088,False,Approved/Permitted/Under construction,NC,Data_Centers_Database.xlsx
+,Not selected,Kingsboro Data Center Project,35.924713,-77.65831,False,Proposed,NC,Data_Centers_Database.xlsx
+,Not selected,Facebook Forest City Data Center,35.31632,-81.8251,False,Operating,NC,Data_Centers_Database.xlsx
+,Not selected,Fort Bragg Data Center,35.155334,-79.022064,False,Proposed,NC,Data_Centers_Database.xlsx
+,Not selected,DC Blox: High Point,36.05276,-79.9516,False,Proposed,NC,Data_Centers_Database.xlsx
+,Not selected,Amazon Hamlet Data Center,34.82899,-79.72932,False,Approved/Permitted/Under construction,NC,Data_Centers_Database.xlsx
+,Not selected,Natelli Investments Data Center,36.30721,-78.47415,False,Suspended,NC,Data_Centers_Database.xlsx
+,Not selected,T5 Data Center,35.25142,-81.397,False,Operating,NC,Data_Centers_Database.xlsx
+,Not selected,Google Lenoir Data Center,35.89313,-81.5461,False,Expanding,NC,Data_Centers_Database.xlsx
+,Not selected,Enovum Data Center,36.40271,-79.9882,False,Proposed,NC,Data_Centers_Database.xlsx
+,Not selected,Apple Maiden Data Center,35.58726,-81.2595,False,Operating,NC,Data_Centers_Database.xlsx
+,Not selected,Project Yoga,35.58554,-81.2315,False,Approved/Permitted/Under construction,NC,Data_Centers_Database.xlsx
+,Not selected,Project Accelerate,35.10738,-80.71056,False,Cancelled,NC,Data_Centers_Database.xlsx
+,Not selected,Tract Data Center,35.51575,-80.7532,False,Cancelled,NC,Data_Centers_Database.xlsx
+,Not selected,Project Pine ,35.71945,-81.2758,False,Proposed,NC,Data_Centers_Database.xlsx
+,Not selected,New Hill Digital Campus,35.667305,-78.95606,False,Cancelled,NC,Data_Centers_Database.xlsx
+,Not selected,New Hill Digital Campus,35.66446,-78.9558,False,Proposed,NC,Data_Centers_Database.xlsx
+,Not selected,Newton Data Center,35.60278,-81.3073,False,Proposed,NC,Data_Centers_Database.xlsx
+,Not selected,Project Rockforge ,35.62656,-81.3118,False,Proposed,NC,Data_Centers_Database.xlsx
+,Not selected,American Tower Edge Data Center,35.78814,-78.7265,False,Proposed,NC,Data_Centers_Database.xlsx
+,Not selected,Apple Reserch Triangle Park Data Center,35.850254,-78.87698,False,Suspended,NC,Data_Centers_Database.xlsx
+,Not selected,Person County Mega Site,36.479218,-78.9898,False,Proposed,NC,Data_Centers_Database.xlsx
+,Not selected,Drox Group Data Center,36.24073,-80.30469,False,Proposed,NC,Data_Centers_Database.xlsx
+,Not selected,Deep River Data AI Data Center,35.53914,-79.25537,False,Proposed,NC,Data_Centers_Database.xlsx
+,Not selected,Compass Data Center,35.77436,-80.9749,False,Approved/Permitted/Under construction,NC,Data_Centers_Database.xlsx
+,Not selected,Project Delta,36.324413,-80.09938,False,Suspended,NC,Data_Centers_Database.xlsx
+,Not selected,Aurum Capital Ventures,46.81102,-100.721,False,Proposed,ND,Data_Centers_Database.xlsx
+,Not selected,Applied Digital: Polaris Forge 1,46.01259,-98.5707,False,Operating,ND,Data_Centers_Database.xlsx
+,Not selected,Applied Digital: Polaris Forge 2,46.97181,-96.8542,False,Approved/Permitted/Under construction,ND,Data_Centers_Database.xlsx
+,Not selected,CoreWeave/ Applied Digital,47.02708,-98.6796,False,Operating,ND,Data_Centers_Database.xlsx
+,Not selected,Atlas Power ,48.1455,-103.77432,False,Operating,ND,Data_Centers_Database.xlsx
+,Not selected,Project Fighting Pike,48.221992,-103.62824,False,Operating,ND,Data_Centers_Database.xlsx
+,Not selected,Bellevue Data Center,41.17724,-95.9248,False,Operating,NE,Data_Centers_Database.xlsx
+,Not selected,Sequitor Edge Data Center,40.726894,-99.04298,False,Proposed,NE,Data_Centers_Database.xlsx
+,Not selected,H5 Data Center,41.180862,-96.08503,False,Operating,NE,Data_Centers_Database.xlsx
+,Not selected,Google Lincoln Data Center,40.82278,-96.7574,False,Approved/Permitted/Under construction,NE,Data_Centers_Database.xlsx
+,Not selected,Lincoln Data Centers,40.81206,-96.7024,False,Operating,NE,Data_Centers_Database.xlsx
+,Not selected,Omaha Data Center,41.344105,-96.09118,False,Operating,NE,Data_Centers_Database.xlsx
+,Not selected,TierPoint Midlands Data Center,41.13467,-96.0391,False,Operating,NE,Data_Centers_Database.xlsx
+,Not selected,Meta Data Center,41.11734,-96.1425,False,Operating,NE,Data_Centers_Database.xlsx
+,Not selected,First Light Data Center,42.928246,-71.46393,False,Operating,NH,Data_Centers_Database.xlsx
+,Not selected,Nottingham Data Center,43.17961,-71.10022,False,Suspended,NH,Data_Centers_Database.xlsx
+,Not selected,Comcast Data Center,40.63284,-74.9191,False,Proposed,NJ,Data_Centers_Database.xlsx
+,Not selected,QTS,40.275524,-74.5491,False,Operating,NJ,Data_Centers_Database.xlsx
+,Not selected,Joint Base McGuire-Dix-Lakehurst,40.01661,-74.608765,False,Proposed,NJ,Data_Centers_Database.xlsx
+,Not selected,DataVerge,40.726536,-74.03348,False,Operating,NJ,Data_Centers_Database.xlsx
+,Not selected,Tower Gate Project,40.118675,-74.751205,False,Cancelled,NJ,Data_Centers_Database.xlsx
+,Not selected,Comcast Data Center,39.98939,-74.8896,False,Proposed,NJ,Data_Centers_Database.xlsx
+,Not selected,New Brunswick Data Center,40.48662,-74.45843,False,Cancelled,NJ,Data_Centers_Database.xlsx
+,Not selected,Newton Data Center,41.02557,-74.758255,False,Cancelled,NJ,Data_Centers_Database.xlsx
+,Not selected,GI Partners Data Center,40.82151,-74.1342,False,Operating,NJ,Data_Centers_Database.xlsx
+,Not selected,Prism Capital Partners Data Center,40.8294,-74.1536,False,Proposed,NJ,Data_Centers_Database.xlsx
+,Not selected,Nebius Data Center,39.43012,-75.0131,False,Approved/Permitted/Under construction,NJ,Data_Centers_Database.xlsx
+,Not selected,NJFX,40.161446,-74.05334,False,Operating,NJ,Data_Centers_Database.xlsx
+,Not selected,bigbyte.cc Corp. Data Center,35.08452,-106.649,False,Operating,NM,Data_Centers_Database.xlsx
+,Not selected,Centersquare Albuquerque Data Center,35.0862,-106.652,False,Operating,NM,Data_Centers_Database.xlsx
+,Not selected,H5 Data Center,35.08857,-106.652,False,Operating,NM,Data_Centers_Database.xlsx
+,Not selected,Hobbs Data Center,32.70361,-103.137,False,Operating,NM,Data_Centers_Database.xlsx
+,Not selected,Aerospace Data Facility Southwest,32.49551,-106.614,False,Operating,NM,Data_Centers_Database.xlsx
+,Not selected,New Era Energy & Digital Data Center,32.882626,-103.42699,False,Proposed,NM,Data_Centers_Database.xlsx
+,Not selected,Zenith Volts Data Center,33.38971,-104.536,False,Proposed,NM,Data_Centers_Database.xlsx
+,Not selected,Project Jupiter,31.81646,-106.678,False,Approved/Permitted/Under construction,NM,Data_Centers_Database.xlsx
+,Not selected,Green Data Center,34.077454,-107.02448,False,Cancelled,NM,Data_Centers_Database.xlsx
+,Not selected,Townsite Solar 2 LLC ,35.94159,-114.913795,False,Proposed,NV,Data_Centers_Database.xlsx
+,Not selected,Novva Data Center,36.2705,-115.048,False,Operating,NV,Data_Centers_Database.xlsx
+,Not selected,Novva Data Center (site 2),36.33975,-114.943,False,Proposed,NV,Data_Centers_Database.xlsx
+,Not selected,Switch Data Center,36.219105,-115.3135,False,Proposed,NV,Data_Centers_Database.xlsx
+,Not selected,Switch Las Vegas CORE campus,36.0603,-115.2119,False,Operating,NV,Data_Centers_Database.xlsx
+,Not selected,Jet.AI,36.688816,-114.62739,False,Proposed,NV,Data_Centers_Database.xlsx
+,Not selected,Centra,39.525772,-119.82659,False,Approved/Permitted/Under construction,NV,Data_Centers_Database.xlsx
+,Not selected,Lumen Technologies mini Data Center,39.52402,-119.827,False,Operating,NV,Data_Centers_Database.xlsx
+,Not selected,Oppidan Data Center,39.61418,-119.877,False,Approved/Permitted/Under construction,NV,Data_Centers_Database.xlsx
+,Not selected,Webb Data Center,39.61473,-119.879,False,Approved/Permitted/Under construction,NV,Data_Centers_Database.xlsx
+,Not selected,Tract Data Center,39.42805,-119.232,False,Proposed,NV,Data_Centers_Database.xlsx
+,Not selected,Tract Data Center,39.47083,-119.40618,False,Approved/Permitted/Under construction,NV,Data_Centers_Database.xlsx
+,Not selected,Apple Data Center,39.56298,-119.551,False,Operating,NV,Data_Centers_Database.xlsx
+,Not selected,NV11–NV14 Data Center Campus,39.55287,-119.474,False,Proposed,NV,Data_Centers_Database.xlsx
+,Not selected,South Valley Technology Park Data Centers,39.51259,-119.435585,False,Proposed,NV,Data_Centers_Database.xlsx
+,Not selected,Tract Data Center,39.53511,-119.497,False,Proposed,NV,Data_Centers_Database.xlsx
+,Not selected,STAMP Data Center,43.08677,-78.3978,False,Proposed,NY,Data_Centers_Database.xlsx
+,Not selected,Kenwood Commons ,42.62812,-73.77215,False,Proposed,NY,Data_Centers_Database.xlsx
+,Not selected,Lake Mariner Data Center,43.35908,-78.6068,False,Expanding,NY,Data_Centers_Database.xlsx
+,Not selected,Camp Monterey Data Center,42.337475,-77.019035,False,Proposed,NY,Data_Centers_Database.xlsx
+,Not selected,DataVerge/ Industry City Data Center,40.65775,-74.004974,False,Operating,NY,Data_Centers_Database.xlsx
+,Not selected,Holtec Decommissioning International Data Center,41.265106,-73.9493,False,Proposed,NY,Data_Centers_Database.xlsx
+,Not selected,H5 Data Centers Buffalo,42.88409,-78.875725,False,Operating,NY,Data_Centers_Database.xlsx
+,Not selected,Tesla Dojo Supercomputer,42.86061,-78.84132,False,Cancelled,NY,Data_Centers_Database.xlsx
+,Not selected,Greenidge Generation Yates County facility,42.67687,-76.94491,False,Operating,NY,Data_Centers_Database.xlsx
+,Not selected,Global AI,42.104294,-76.04444,False,Operating,NY,Data_Centers_Database.xlsx
+,Not selected,Treetop Development Project,41.5234,-73.81024,False,Proposed,NY,Data_Centers_Database.xlsx
+,Not selected,Former Remington Gun Factory Data Center,43.01354,-75.033745,False,Proposed,NY,Data_Centers_Database.xlsx
+,Not selected,Lake Hawkeye Data Center,42.60211,-76.635,False,Proposed,NY,Data_Centers_Database.xlsx
+,Not selected,H5 Data Center,43.169827,-78.74797,False,Operating,NY,Data_Centers_Database.xlsx
+,Not selected,"Ranalli Super DC, LLC Data Center",43.18687,-76.35703,False,Proposed,NY,Data_Centers_Database.xlsx
+,Not selected,"Ranalli Super DC, LLC Data Center",43.18687,-76.35703,False,Proposed,NY,Data_Centers_Database.xlsx
+,Not selected,Former Sears Data Center,44.948536,-74.84243,False,Proposed,NY,Data_Centers_Database.xlsx
+,Not selected,New York State Artificial Intelligence Data Center,44.95557,-74.853615,False,Cancelled,NY,Data_Centers_Database.xlsx
+,Not selected,North Country Data Center,44.961773,-74.8913,False,Proposed,NY,Data_Centers_Database.xlsx
+,Not selected,St Lawrence Data and Agricultural Center,44.954838,-74.84906,False,Proposed,NY,Data_Centers_Database.xlsx
+,Not selected,LGA1,40.717728,-74.00832,False,Operating,NY,Data_Centers_Database.xlsx
+,Not selected,LGA2,40.740993,-74.00215,False,Operating,NY,Data_Centers_Database.xlsx
+,Not selected,Oxford Quantum Circuits Data Center,40.74102,-74.0021,False,Operating,NY,Data_Centers_Database.xlsx
+,Not selected,Telehouse: Chelsea,40.743084,-74.007866,False,Operating,NY,Data_Centers_Database.xlsx
+,Not selected,9Lives Data Center,43.12389,-79.04118,False,Proposed,NY,Data_Centers_Database.xlsx
+,Not selected,BlockFusion aka North East Data Center LLC,43.083187,-79.00317,False,Operating,NY,Data_Centers_Database.xlsx
+,Not selected,Niagara Digital Campus,43.084515,-79.05135,False,Approved/Permitted/Under construction,NY,Data_Centers_Database.xlsx
+,Not selected,North Tonawanda Data Center,43.06086,-78.85376,False,Operating,NY,Data_Centers_Database.xlsx
+,Not selected,Oneonta Data Center,42.45303,-75.1168,False,Suspended,NY,Data_Centers_Database.xlsx
+,Not selected,Bloomberg-RDC 8/ Sentinel NY-1,41.03556,-73.9866,False,Operating,NY,Data_Centers_Database.xlsx
+,Not selected,DataBank LGA3 and LGA4,41.03986,-73.9899,False,Operating,NY,Data_Centers_Database.xlsx
+,Not selected,Orangeburg Data Center,41.0345,-73.9758,False,Operating,NY,Data_Centers_Database.xlsx
+,Not selected,IBM Data Center,41.660404,-73.93994,False,Approved/Permitted/Under construction,NY,Data_Centers_Database.xlsx
+,Not selected,Telehouse: Teleport,40.60713,-74.174934,False,Operating,NY,Data_Centers_Database.xlsx
+,Not selected,Riverview Innovation & Technology Campus,42.978775,-78.93396,False,Suspended,NY,Data_Centers_Database.xlsx
+,Not selected,Brookhaven Logistics Center,40.82991,-72.94618,False,Proposed,NY,Data_Centers_Database.xlsx
+,Not selected,Aberdeen Data Center,38.638145,-83.69277,False,Proposed,OH,Data_Centers_Database.xlsx
+,Not selected,Viking Data Centers,41.050426,-81.4743,False,Operating,OH,Data_Centers_Database.xlsx
+,Not selected,EdgeConneX Ashville Data Center,39.733818,-82.97449,False,Proposed,OH,Data_Centers_Database.xlsx
+,Not selected,Project Triton,41.014168,-81.6502,False,Proposed,OH,Data_Centers_Database.xlsx
+,Not selected,Meta Bowling Green Data Center/ Project Accordion,41.45447,-83.6489,False,Approved/Permitted/Under construction,OH,Data_Centers_Database.xlsx
+,Not selected,Canton Data Center,40.8489,-81.4408,False,Operating,OH,Data_Centers_Database.xlsx
+,Not selected,DartPoints Data Center,39.09831,-84.5179,False,Approved/Permitted/Under construction,OH,Data_Centers_Database.xlsx
+,Not selected,H5 Data Center,39.10586,-84.5366,False,Operating,OH,Data_Centers_Database.xlsx
+,Not selected,CLE1,41.42835,-81.574,False,Operating,OH,Data_Centers_Database.xlsx
+,Not selected,CLE2,41.42939,-81.5739,False,Operating,OH,Data_Centers_Database.xlsx
+,Not selected,Lakeland Equity Group Data Center,41.461937,-81.65161,False,Cancelled,OH,Data_Centers_Database.xlsx
+,Not selected,Slavic Village Data Center,41.4646,-81.6521,False,Proposed,OH,Data_Centers_Database.xlsx
+,Not selected,COL 1 (Cologix) Data Center,40.11592,-83.0025,False,Operating,OH,Data_Centers_Database.xlsx
+,Not selected,COL 2 (Cologix) Data Center,40.11582,-83.0025,False,Operating,OH,Data_Centers_Database.xlsx
+,Not selected,COL 3 (Cologix) Data Center,40.11585,-83.0023,False,Operating,OH,Data_Centers_Database.xlsx
+,Not selected,COL 4 (Cologix) Data Center,40.11852,-82.9993,False,Operating,OH,Data_Centers_Database.xlsx
+,Not selected,Columbus Data Center,39.85241,-82.9974,False,Operating,OH,Data_Centers_Database.xlsx
+,Not selected,Microsoft Columbus Data Center,39.96418,-83.0171,False,Suspended,OH,Data_Centers_Database.xlsx
+,Not selected,Microsoft Licking County Data Center,39.96418,-83.0171,False,Cancelled,OH,Data_Centers_Database.xlsx
+,Not selected,Aligned Data Center,40.18911,-81.8728,False,Proposed,OH,Data_Centers_Database.xlsx
+,Not selected,CMH2,40.09205,-83.1436,False,Operating,OH,Data_Centers_Database.xlsx
+,Not selected,DartPoints Data Center,40.09327,-83.1337,False,Operating,OH,Data_Centers_Database.xlsx
+,Not selected,PRSM Data Center,39.8307,-84.7197,False,Proposed,OH,Data_Centers_Database.xlsx
+,Not selected,Franklin Furnace Data Center,38.59737,-82.84261,False,Proposed,OH,Data_Centers_Database.xlsx
+,Not selected,Amazon Sunbury Data Center,40.21813,-82.8478,False,Approved/Permitted/Under construction,OH,Data_Centers_Database.xlsx
+,Not selected,Logistix Data Center,39.38385,-84.56061,False,Proposed,OH,Data_Centers_Database.xlsx
+,Not selected,Mara Holdings ,39.704994,-80.8452,False,Proposed,OH,Data_Centers_Database.xlsx
+,Not selected,Amazon Hilliard Data Center ,40.06241,-83.1344,False,Expanding,OH,Data_Centers_Database.xlsx
+,Not selected,Ravel Data Center,38.567665,-82.782684,False,Proposed,OH,Data_Centers_Database.xlsx
+,Not selected,Amazon Jeffersonville Data Center,39.62815,-83.57187,False,Proposed,OH,Data_Centers_Database.xlsx
+,Not selected,CyrusOne COL-1,40.09545,-82.7181,False,Approved/Permitted/Under construction,OH,Data_Centers_Database.xlsx
+,Not selected,EdgeConneX New Albany Data Center,40.08851,-82.7583,False,Approved/Permitted/Under construction,OH,Data_Centers_Database.xlsx
+,Not selected,Johnstown Data Center (Beech Rd.) ,40.11718,-82.7506,False,Proposed,OH,Data_Centers_Database.xlsx
+,Not selected,Johnstown Data Center (Beech Rd),40.09769,-82.7533,False,Proposed,OH,Data_Centers_Database.xlsx
+,Not selected,Johnstown Data Center (Beech Rd NW),40.09421,-82.7514,False,Proposed,OH,Data_Centers_Database.xlsx
+,Not selected,Johnstown Data Center (Harrison Rd),40.08953,-82.7346,False,Proposed,OH,Data_Centers_Database.xlsx
+,Not selected,Karis Critical Data Center,40.12115,-82.7517,False,Proposed,OH,Data_Centers_Database.xlsx
+,Not selected,Lancaster Data Center,39.72647,-82.6823,False,Proposed,OH,Data_Centers_Database.xlsx
+,Not selected,CMH3,40.15455,-83.0143,False,Operating,OH,Data_Centers_Database.xlsx
+,Not selected,COL 5 (Cologix) Data Center,40.19086,-83.0113,False,Proposed,OH,Data_Centers_Database.xlsx
+,Not selected,Bistrozzi LLC Data Center,40.7965,-84.121,False,Proposed,OH,Data_Centers_Database.xlsx
+,Not selected,Project BOSC,40.80032,-84.11909,False,Proposed,OH,Data_Centers_Database.xlsx
+,Not selected,Project Cosmos,40.2203,-83.3259,False,Proposed,OH,Data_Centers_Database.xlsx
+,Not selected,Vantage Data Center,39.89945,-82.5619,False,Proposed,OH,Data_Centers_Database.xlsx
+,Not selected,Monclova Data Center,41.546165,-83.71574,False,Proposed,OH,Data_Centers_Database.xlsx
+,Not selected,Pacifico Data Center,39.697655,-83.11986,False,Proposed,OH,Data_Centers_Database.xlsx
+,Not selected,Google New Albany Data Center,40.058273,-82.766945,False,Approved/Permitted/Under construction,OH,Data_Centers_Database.xlsx
+,Not selected,New Albany Meta Data Center/Prometheus,40.06873,-82.75027,False,Operating,OH,Data_Centers_Database.xlsx
+,Not selected,Oregon Data Center,41.66384,-83.4237,False,Proposed,OH,Data_Centers_Database.xlsx
+,Not selected,SoftBank Data Center/PORTS Technology Campus,39.013145,-83.00055,False,Approved/Permitted/Under construction,OH,Data_Centers_Database.xlsx
+,Not selected,J5 LLC Data Center,40.10546,-84.259926,False,Proposed,OH,Data_Centers_Database.xlsx
+,Not selected,Aligned NEO-01,41.43093,-82.7172,False,Proposed,OH,Data_Centers_Database.xlsx
+,Not selected,Amazon Project Galaxy,40.26942,-84.19626,False,Proposed,OH,Data_Centers_Database.xlsx
+,Not selected,Project Mila,39.455215,-84.45998,False,Proposed,OH,Data_Centers_Database.xlsx
+,Not selected,CMH1,40.05789,-83.0785,False,Operating,OH,Data_Centers_Database.xlsx
+,Not selected,Urbana Technology Hub,40.08692,-83.77341,False,Proposed,OH,Data_Centers_Database.xlsx
+,Not selected,Stargate Data Center,41.15324,-80.8803,False,Proposed,OH,Data_Centers_Database.xlsx
+,Not selected,Wilmington Data Center,39.42304,-83.845474,False,Suspended,OH,Data_Centers_Database.xlsx
+,Not selected,Sammis Power Plant Data Center,40.528168,-80.62949,False,Proposed,OH ,Data_Centers_Database.xlsx
+,Not selected,Waterville Data Center,41.498295,-83.75243,False,Proposed,OH ,Data_Centers_Database.xlsx
+,Not selected,Data center,36.03942,-95.74154,False,Proposed,OK,Data_Centers_Database.xlsx
+,Not selected,Project Anthem,36.14817,-95.7338,False,Approved/Permitted/Under construction,OK,Data_Centers_Database.xlsx
+,Not selected,Project Mustang,36.343464,-95.60581,False,Proposed,OK,Data_Centers_Database.xlsx
+,Not selected,Google Pryor Data Center,36.240967,-95.33059,False,Operating,OK,Data_Centers_Database.xlsx
+,Not selected,Luther Data Center,35.684746,-97.21583,False,Proposed,OK,Data_Centers_Database.xlsx
+,Not selected,Cerebras Systems Data Center,35.53575,-97.5223,False,Operating,OK,Data_Centers_Database.xlsx
+,Not selected,Valor C3 Data Center,35.42508,-97.5998,False,Operating,OK,Data_Centers_Database.xlsx
+,Not selected,Project Atlas,35.89665,-95.60666,False,Cancelled,OK,Data_Centers_Database.xlsx
+,Not selected,Project Spring,36.24621,-96.10994,False,Approved/Permitted/Under construction,OK,Data_Centers_Database.xlsx
+,Not selected,Project Clydesdale,36.26513,-95.9034,False,Approved/Permitted/Under construction,OK,Data_Centers_Database.xlsx
+,Not selected,Cherokee Data Center,36.26277,-95.9097,False,Operating,OK,Data_Centers_Database.xlsx
+,Not selected,Tierpoint Data Center,36.09664,-95.8402,False,Operating,OK,Data_Centers_Database.xlsx
+,Not selected,Arlington Data Center,45.72153,-120.189,False,Proposed,OR,Data_Centers_Database.xlsx
+,Not selected,Amazon Boardman Data Center,45.836727,-119.689735,False,Proposed,OR,Data_Centers_Database.xlsx
+,Not selected,Roundhouse Data Center,45.67192,-121.886,False,Cancelled,OR,Data_Centers_Database.xlsx
+,Not selected,Crane Data Centers,45.51303,-123.05,False,Approved/Permitted/Under construction,OR,Data_Centers_Database.xlsx
+,Not selected,Amazon Data Center,45.604702,-119.573364,False,Proposed,OR,Data_Centers_Database.xlsx
+,Not selected,Adobe Data Center,45.550182,-122.93266,False,Operating,OR,Data_Centers_Database.xlsx
+,Not selected,Flexential Hillsboro 1,45.55948,-122.938,False,Operating,OR,Data_Centers_Database.xlsx
+,Not selected,Flexential Hillsboro 2,45.54989,-122.891,False,Operating,OR,Data_Centers_Database.xlsx
+,Not selected,Flexential Hillsboro 3,45.55947,-122.938,False,Operating,OR,Data_Centers_Database.xlsx
+,Not selected,Flexential Hillsboro 4,45.55543,-122.939,False,Operating,OR,Data_Centers_Database.xlsx
+,Not selected,Flexential Hillsboro 5,45.55651,-122.939,False,Operating,OR,Data_Centers_Database.xlsx
+,Not selected,Flexential Hillsboro 6,45.54841,-122.89,False,Proposed,OR,Data_Centers_Database.xlsx
+,Not selected,Portland Edge Data Center (EDC) campus ,45.55167,-122.915,False,Operating,OR,Data_Centers_Database.xlsx
+,Not selected,Stack Infrastructure POR01A,45.54944,-122.92765,False,Expanding,OR,Data_Centers_Database.xlsx
+,Not selected,Stack Infrastructure POR03A Flagship Campus,45.5502,-122.941696,False,Expanding,OR,Data_Centers_Database.xlsx
+,Not selected,La Pine Data Center,43.66909,-121.4879,False,Suspended,OR,Data_Centers_Database.xlsx
+,Not selected,Apple Prineville Data Center,44.28842,-120.876,False,Operating,OR,Data_Centers_Database.xlsx
+,Not selected,Meta Prineville Data Center,44.295624,-120.88721,False,Operating,OR,Data_Centers_Database.xlsx
+,Not selected,Google Dalles Data Center,45.63318,-121.2,False,Proposed,OR,Data_Centers_Database.xlsx
+,Not selected,Aliquippa Data Center Campus,40.630177,-80.23629,False,Approved/Permitted/Under construction,PA,Data_Centers_Database.xlsx
+,Not selected,Atlas Industrial Data Center,40.643616,-75.53651,False,Proposed,PA,Data_Centers_Database.xlsx
+,Not selected,Data Centric LLC Data Center,41.13256,-76.9053,False,Suspended,PA,Data_Centers_Database.xlsx
+,Not selected,Project Gravity Data Center,41.52497,-75.561554,False,Proposed,PA,Data_Centers_Database.xlsx
+,Not selected,Project Green Mountain Data Center,41.51297,-75.52613,False,Proposed,PA,Data_Centers_Database.xlsx
+,Not selected,Project North,41.524982,-75.554184,False,Proposed,PA,Data_Centers_Database.xlsx
+,Not selected,Project Scott,41.516857,-75.564445,False,Proposed,PA,Data_Centers_Database.xlsx
+,Not selected,Wildcat Ridge Data Center,41.50318,-75.58995,False,Suspended,PA,Data_Centers_Database.xlsx
+,Not selected,Nautilus crypto mine,41.08303,-76.1527,False,Operating,PA,Data_Centers_Database.xlsx
+,Not selected,QTS Salem,41.092793,-76.16732,False,Proposed,PA,Data_Centers_Database.xlsx
+,Not selected,Tierpoint Bethlehem Data Center,40.670616,-75.37491,False,Operating,PA,Data_Centers_Database.xlsx
+,Not selected,Tierpoint Lehigh Valley Data Center,40.675163,-75.37803,False,Operating,PA,Data_Centers_Database.xlsx
+,Not selected,Switch ,40.826195,-80.36533,False,Proposed,PA,Data_Centers_Database.xlsx
+,Not selected,Switch ,40.826195,-80.36533,False,Proposed,PA,Data_Centers_Database.xlsx
+,Not selected,Blakely Data Center,41.48713,-75.59684,False,Cancelled,PA,Data_Centers_Database.xlsx
+,Not selected,Iron Mountain Data Center,41.09156,-79.913376,False,Operating,PA,Data_Centers_Database.xlsx
+,Not selected,Tierpoint Allentown TekPark Data Center,40.543934,-75.64966,False,Operating,PA,Data_Centers_Database.xlsx
+,Not selected,Starpointe Industrial Park Data Center,40.431973,-80.42476,False,Proposed,PA,Data_Centers_Database.xlsx
+,Not selected,PAX-1 Data Center,40.2481,-77.1092,False,Approved/Permitted/Under construction,PA,Data_Centers_Database.xlsx
+,Not selected,Clarks Summit Data Center,41.450073,-75.7125,False,Proposed,PA,Data_Centers_Database.xlsx
+,Not selected,Project Gold Data Center,41.24829,-75.5166,False,Proposed,PA,Data_Centers_Database.xlsx
+,Not selected,Flexential Collegeville Data Center,40.152084,-75.476875,False,Operating,PA,Data_Centers_Database.xlsx
+,Not selected,Plymouth Township Data Center,40.087204,-75.31887,False,Cancelled,PA,Data_Centers_Database.xlsx
+,Not selected,Energy Capital Partners,39.75768,-76.2754,False,Proposed,PA,Data_Centers_Database.xlsx
+,Not selected,MRP ,40.432003,-77.006775,False,Proposed,PA,Data_Centers_Database.xlsx
+,Not selected,Smithfield Gateway Data Center,41.00482,-75.14695,False,Proposed,PA,Data_Centers_Database.xlsx
+,Not selected,viLogics Ebensburg,40.45876,-78.758766,False,Operating,PA,Data_Centers_Database.xlsx
+,Not selected,Sentinel Data Center,40.039886,-75.5847,False,Proposed,PA,Data_Centers_Database.xlsx
+,Not selected,Archbald Data Center ,41.51232,-75.5583,False,Proposed,PA,Data_Centers_Database.xlsx
+,Not selected,Fairview Crossroads Data Center,40.206436,-76.871,False,Proposed,PA,Data_Centers_Database.xlsx
+,Not selected,Ark Pittsburgh Data Center,40.752384,-79.63733,False,Operating,PA,Data_Centers_Database.xlsx
+,Not selected,CloudHQ Berks 61 Hyperscale Campus,40.57368,-76.01037,False,Proposed,PA,Data_Centers_Database.xlsx
+,Not selected,Harrisburg Data Center ,40.22755,-76.8093,False,Proposed,PA,Data_Centers_Database.xlsx
+,Not selected,Project Hazelnut,40.9272,-76.0426,False,Cancelled,PA,Data_Centers_Database.xlsx
+,Not selected,Homer City Energy Campus,40.51395,-79.1967,False,Approved/Permitted/Under construction,PA,Data_Centers_Database.xlsx
+,Not selected,Breaker Street Associates LLC Data Center,41.47588,-75.5564,False,Proposed,PA,Data_Centers_Database.xlsx
+,Not selected,Catalyst Commercial Development LLC,41.46812,-75.5516,False,Proposed,PA,Data_Centers_Database.xlsx
+,Not selected,Jim Thorpe Data Center,40.895737,-75.68105,False,Proposed,PA,Data_Centers_Database.xlsx
+,Not selected,Bitfarm Scrubgrass,41.26942,-79.81057,False,Operating,PA,Data_Centers_Database.xlsx
+,Not selected,DaSTOR Data Center,40.08822,-75.339264,False,Operating,PA,Data_Centers_Database.xlsx
+,Not selected,CoreWeave Lancaster 1,40.0485,-76.2598,False,Proposed,PA,Data_Centers_Database.xlsx
+,Not selected,CoreWeave Lancaster 2,40.05947,-76.33,False,Proposed,PA,Data_Centers_Database.xlsx
+,Not selected,Lumen: Lancaster 1 Data Center,40.049385,-76.25195,False,Operating,PA,Data_Centers_Database.xlsx
+,Not selected,AWS Data Center,40.86813,-76.024254,False,Proposed,PA,Data_Centers_Database.xlsx
+,Not selected,Northern Data/ Ardent Data Center,40.43956,-80.1421,False,Operating,PA,Data_Centers_Database.xlsx
+,Not selected,Mawson Midland Data Center,40.632298,-80.45189,False,Expanding,PA,Data_Centers_Database.xlsx
+,Not selected,Robena Mine Data Center/ Project Hummingbird,39.83526,-79.942505,False,Approved/Permitted/Under construction,PA,Data_Centers_Database.xlsx
+,Not selected,Amazon Falls Township Data Center,40.15494,-74.744415,False,Proposed,PA,Data_Centers_Database.xlsx
+,Not selected,Dorrance Township Data Center,41.080692,-75.95785,False,Proposed,PA,Data_Centers_Database.xlsx
+,Not selected,Muncy Data Center,41.22825,-76.81257,False,Approved/Permitted/Under construction,PA,Data_Centers_Database.xlsx
+,Not selected,Bitfarm Bitcoin Panther Creek,40.8556,-75.8781,False,Operating,PA,Data_Centers_Database.xlsx
+,Not selected,Bitfarms AI,40.85592,-75.87033,False,Proposed,PA,Data_Centers_Database.xlsx
+,Not selected,KRNL Data Center,40.7742,-76.235,False,Proposed,PA,Data_Centers_Database.xlsx
+,Not selected,Upper Burrell Data Center/TECfusions Keystone Connect,40.5489,-79.6466,False,Expanding,PA,Data_Centers_Database.xlsx
+,Not selected,Tierpoint Valley Forge Data Center,40.1223,-75.42087,False,Operating,PA,Data_Centers_Database.xlsx
+,Not selected,365 Data Centers Philadelphia Data Center,39.962574,-75.16374,False,Operating,PA,Data_Centers_Database.xlsx
+,Not selected,H5 Philadelphia Data Center,39.96254,-75.16369,False,Operating,PA,Data_Centers_Database.xlsx
+,Not selected,Lumen Philadelphia 1,39.959843,-75.160965,False,Operating,PA,Data_Centers_Database.xlsx
+,Not selected,Lumen Philadelphia 2,39.951508,-75.15258,False,Operating,PA,Data_Centers_Database.xlsx
+,Not selected,Lumen Philadelphia 3,39.95495,-75.1846,False,Operating,PA,Data_Centers_Database.xlsx
+,Not selected,Lumen Philadelphia 4,39.95055,-75.18009,False,Operating,PA,Data_Centers_Database.xlsx
+,Not selected,Netrality Philadelphia Data Center,39.960106,-75.161545,False,Operating,PA,Data_Centers_Database.xlsx
+,Not selected,Philadelphia IBX Data Center ,39.959885,-75.16155,False,Operating,PA,Data_Centers_Database.xlsx
+,Not selected,Philadelphia Vanguard Data Center,40.116432,-75.00086,False,Operating,PA,Data_Centers_Database.xlsx
+,Not selected,Tierpoint Philadelphia Navy Yard Data Center,39.892517,-75.166374,False,Operating,PA,Data_Centers_Database.xlsx
+,Not selected,365 Data Centers Philadelphia Data Center,39.956966,-75.19623,False,Operating,PA,Data_Centers_Database.xlsx
+,Not selected,Ascent Data,40.49623,-79.866455,False,Operating,PA,Data_Centers_Database.xlsx
+,Not selected,Consolidated Communications Pittsburgh Data Center,40.5186,-80.0152,False,Operating,PA,Data_Centers_Database.xlsx
+,Not selected,DataBank Downtown Pittsburgh Campus ,40.451286,-80.00508,False,Operating,PA,Data_Centers_Database.xlsx
+,Not selected,DataBank Summit Park Campus ,40.45133,-80.1902,False,Operating,PA,Data_Centers_Database.xlsx
+,Not selected,Expedient PIT1,40.42745,-80.0425,False,Operating,PA,Data_Centers_Database.xlsx
+,Not selected,Expedient PIT2,40.45128,-80.0056,False,Operating,PA,Data_Centers_Database.xlsx
+,Not selected,H5 Pittsburgh,40.451946,-79.980896,False,Operating,PA,Data_Centers_Database.xlsx
+,Not selected,Lumen: Pittsburgh Data Center 1,40.45482,-79.98007,False,Operating,PA,Data_Centers_Database.xlsx
+,Not selected,Lumen: Pittsurgh Data Center 2,40.430367,-79.95969,False,Operating,PA,Data_Centers_Database.xlsx
+,Not selected,Pottstown Data Center,40.21353,-75.596565,False,Proposed,PA,Data_Centers_Database.xlsx
+,Not selected,Project Laurel,40.234047,-75.5769,False,Proposed,PA,Data_Centers_Database.xlsx
+,Not selected,Ransom Township Data Center,41.44154,-75.704315,False,Suspended,PA,Data_Centers_Database.xlsx
+,Not selected,DaSTOR (Reading) Data Center,40.380787,-75.98114,False,Operating,PA,Data_Centers_Database.xlsx
+,Not selected,Direct LTx Cloud Data Center,40.38155,-75.98202,False,Operating,PA,Data_Centers_Database.xlsx
+,Not selected,Omega Systems Reading Data Center,40.34144,-76.00547,False,Operating,PA,Data_Centers_Database.xlsx
+,Not selected,Dickson City Development LLC s,41.47686,-75.638275,False,Proposed,PA,Data_Centers_Database.xlsx
+,Not selected,Bitfarm Bitcoin mine,41.234673,-80.493576,False,Operating,PA,Data_Centers_Database.xlsx
+,Not selected,Bitfarms,41.24472,-80.50655,False,Operating,PA,Data_Centers_Database.xlsx
+,Not selected,Shippingport Bruce Mansfield Data Center/Project Phoenix,40.63213,-80.4145,False,Approved/Permitted/Under construction,PA,Data_Centers_Database.xlsx
+,Not selected,South Annville Data Center,40.32545,-76.526855,False,Cancelled,PA,Data_Centers_Database.xlsx
+,Not selected,Zediker Station Data Center,40.17106,-80.16807,False,Proposed,PA,Data_Centers_Database.xlsx
+,Not selected,Pennhurst Data Center,40.194553,-75.56007,False,Proposed,PA,Data_Centers_Database.xlsx
+,Not selected,Springdale Data Center,40.53866,-79.7906,False,Proposed,PA,Data_Centers_Database.xlsx
+,Not selected,Centre WISP SCDC1,40.785908,-77.90064,False,Operating,PA,Data_Centers_Database.xlsx
+,Not selected,McKees Rocks Rock Point Industrial Site Data Center,40.480453,-80.06048,False,Proposed,PA,Data_Centers_Database.xlsx
+,Not selected,LBT Investment Group LLC Data Center,40.97039,-76.0435,False,Proposed,PA,Data_Centers_Database.xlsx
+,Not selected,Tarentum (Rockpointe) Data Center,40.60163,-79.8196,False,Operating,PA,Data_Centers_Database.xlsx
+,Not selected,Upper Macungie Data Center,40.556236,-75.59831,False,Suspended,PA,Data_Centers_Database.xlsx
+,Not selected,Wampum Data Center,40.85128,-80.34748,False,Proposed,PA,Data_Centers_Database.xlsx
+,Not selected,Salem Township Amazon Data Center ,41.109283,-76.14361,False,Proposed,PA,Data_Centers_Database.xlsx
+,Not selected,Montour County Amazon Data Center,41.07108,-76.67566,False,Suspended,PA,Data_Centers_Database.xlsx
+,Not selected,Comcast West Chester Data Center,39.9987,-75.5737,False,Operating,PA,Data_Centers_Database.xlsx
+,Not selected,Wyalusing Data Center,41.653572,-76.23531,False,Proposed,PA,Data_Centers_Database.xlsx
+,Not selected,Contegix Wyomissing Data Center,40.354046,-75.98731,False,Operating,PA,Data_Centers_Database.xlsx
+,Not selected,Fairview Crossroads LLC Data Center,40.00698,-76.7439,False,Proposed,PA,Data_Centers_Database.xlsx
+,Not selected,Terra Nexus Ventures Data Center,34.29839,-80.534,False,Proposed,SC,Data_Centers_Database.xlsx
+,Not selected,Cielo Digital Infrastructure,35.07913,-81.5961,False,Proposed,SC,Data_Centers_Database.xlsx
+,Not selected,Meta Data Center,33.62525,-81.83863,False,Approved/Permitted/Under construction,SC,Data_Centers_Database.xlsx
+,Not selected,DC Blox,34.8071,-82.3455,False,Operating,SC,Data_Centers_Database.xlsx
+,Not selected,Project Liberty,34.197998,-79.352036,False,Proposed,SC,Data_Centers_Database.xlsx
+,Not selected,Project Spero,34.85631,-82.00952,False,Cancelled,SC,Data_Centers_Database.xlsx
+,Not selected,DC Blox: Camp Hall,33.13228,-80.2672,False,Proposed,SC,Data_Centers_Database.xlsx
+,Not selected,York 1 Data Center,35.03438,-81.1071,False,Operating,SC,Data_Centers_Database.xlsx
+,Not selected,Project Alpaca,34.70988,-81.664665,False,Proposed,SC,Data_Centers_Database.xlsx
+,Not selected,Walterboro Data Center,32.84068,-80.60291,False,Proposed,SC,Data_Centers_Database.xlsx
+,Not selected,Sequitor Edge Data Center,44.03367,-103.18849,False,Proposed,SD,Data_Centers_Database.xlsx
+,Not selected,Gemini Data Center SD LLC,43.59399,-96.64092,False,Proposed,SD,Data_Centers_Database.xlsx
+,Not selected,Applied Digital Data Center,44.583656,-96.56283,False,Suspended,SD,Data_Centers_Database.xlsx
+,Not selected,Applied Digital Polaris Forge 3,0.0,0.0,False,Proposed,"""Some northern state""",Data_Centers_Database.xlsx
+,Not selected,DC Blox,35.03158,-85.2973,False,Operating,TN,Data_Centers_Database.xlsx
+,Not selected,Urban Story Ventures Data Center,35.049557,-85.30803,False,Proposed,TN,Data_Centers_Database.xlsx
+,Not selected,Cielo Digital Infrastructure,36.57269,-87.3423,False,Proposed,TN,Data_Centers_Database.xlsx
+,Not selected,Google Clarksville Data Center,36.62078,-87.2622,False,Operating,TN,Data_Centers_Database.xlsx
+,Not selected,Gallatin Data Center,36.41011,-86.3724,False,Operating,TN,Data_Centers_Database.xlsx
+,Not selected,Arnold Air Force Base Data Center,35.37539,-86.07293,False,Proposed,TN,Data_Centers_Database.xlsx
+,Not selected,Hixson Data Center,35.718933,-85.83887,False,Proposed,TN,Data_Centers_Database.xlsx
+,Not selected,MEM1,35.0631,-89.7861,False,Operating,TN,Data_Centers_Database.xlsx
+,Not selected,xAI Colossus 1,35.05983,-90.1562,False,Operating,TN,Data_Centers_Database.xlsx
+,Not selected,xAI Colossus 2,34.998074,-90.03507,False,Expanding,TN,Data_Centers_Database.xlsx
+,Not selected, DC Blox Data Center,36.090492,-86.74721,False,Proposed,TN,Data_Centers_Database.xlsx
+,Not selected,H5 Data Center,36.1628,-86.77863,False,Proposed,TN,Data_Centers_Database.xlsx
+,Not selected,Quantum Leap Data Center/ Fisk University,36.168316,-86.805565,False,Proposed,TN,Data_Centers_Database.xlsx
+,Not selected,Google Abernathy Data Center,33.8333,-101.85482,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Project Caprock Data Center,33.86355,-101.85285,False,Approved/Permitted/Under construction,TX,Data_Centers_Database.xlsx
+,Not selected,Frontier Vantage Data Center,32.55212,-99.5651,False,Approved/Permitted/Under construction,TX,Data_Centers_Database.xlsx
+,Not selected,Open AI/ SoftBank Stargate Data Center (Lancium Clean Campus),32.50204,-99.7907,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,Helios Data Center,33.77858,-100.86909,False,Expanding,TX,Data_Centers_Database.xlsx
+,Not selected,ALLEN DATA CENTER ZX026E,33.09598,-96.6816,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,EXPERIAN DATA CENTER ALLEN,33.08641,-96.6802,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,Fermi America HyperGrid/ Project Matador,35.28762,-101.554,False,Approved/Permitted/Under construction,TX,Data_Centers_Database.xlsx
+,Not selected,AIG DATA CENTER,35.18739,-101.812,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,AUSTIN DATA CENTER AUS-02,30.1991,-97.7134,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,Giga Texas Datacenter,30.22492,-97.6196,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,ORACLE-AUSTIN DATA CENTER,30.38364,-97.6863,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,CleanSpark Data Center,29.884085,-96.219376,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,EdgeConneX  AUS02,30.141739,-97.56553,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,EdgeConneX potential Data Center,30.003628,-97.432915,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,PowerBridge/ LandBridge s,31.316566,-103.10906,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,CleanSpark Data Center,29.182318,-95.47511,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Viridien Data Center,30.140467,-96.40983,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,"Open AI/ SoftBank ""Freebird""",31.00507,-97.0179,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,,29.35138,-98.9406,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Microsoft Castroville Data Center (SAT 89-90),29.35138,-98.9406,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,EDCAUS11 and EDCAUS12,30.003656,-97.432945,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,EdgeConnex,30.14096,-97.5668,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,EdgeConneX AUS02,30.141766,-97.565605,False,Approved/Permitted/Under construction,TX,Data_Centers_Database.xlsx
+,Not selected,Childress Data Center ,34.383278,-100.056885,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,Lancium Childress,34.37564,-100.053,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Goodnight Campus,35.018444,-101.311516,False,Approved/Permitted/Under construction,TX,Data_Centers_Database.xlsx
+,Not selected,Project Aggie ,30.56981,-96.2592,False,Suspended,TX,Data_Centers_Database.xlsx
+,Not selected,Fluidstack,32.396473,-100.91535,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,Hut 8 Beacon Point Data Center,27.844814,-97.6115,False,Expanding,TX,Data_Centers_Database.xlsx
+,Not selected,Riot Platforms,31.963621,-96.521034,False,Expanding,TX,Data_Centers_Database.xlsx
+,Not selected,Fort Hood data base,31.155802,-97.80226,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Centersquare Dallas/Fort Worth Data Center,32.91178,-96.8711,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,Cologix Dallas Data Centers,32.80122,-96.81958,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,Dallas Data Center,32.83822,-96.8789,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,Equinix: DA12-1 and DA12-2,32.821037,-96.85867,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Equinix Data Center,32.78737,-96.7944,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,Flexential Dallas - Richardson Data Center,32.99478,-96.7526,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,KYNDRYL DALLAS DATA CENTER,32.76849,-96.7941,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,Stemmons Corridor data campus,32.805115,-96.83142,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,TierPoint - Dallas Data Center,32.80838,-96.8576,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,Denton Data Center ,33.21948,-97.2129,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,Qumulus AI,33.20929,-97.180824,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Texas Critical Data Centers,31.89517,-102.556,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Bitter Blue Data Center,29.292835,-98.38842,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Meta Project Seafox,31.98718,-106.369095,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,CyrusOne,31.893915,-96.11786,False,Approved/Permitted/Under construction,TX,Data_Centers_Database.xlsx
+,Not selected,Cawley Partners,32.53902,-96.6347,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Fort Bliss Data Center,31.826172,-106.4042,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Project Horizon,30.421732,-102.509315,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Black Mountain Data Center,32.643337,-97.25621,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Centersquare Dallas/Fort Worth Data Center,32.83233,-97.0405,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,CyrusOne/Eolian Data Center,32.90195,-97.39384,False,Approved/Permitted/Under construction,TX,Data_Centers_Database.xlsx
+,Not selected,Edged Energy Outpost Data Center,32.67766,-97.49922,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Edged Fort Worth Data Center,32.689224,-97.4945,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Meta Forth Worth Data Center,32.98489,-97.262,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,QTS- Fort Worth-Dallas,32.98912,-97.2622,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,NTT Global Data Centers Americas - Dallas TX1,32.98221,-96.6574,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,Blueprint Project ,30.584257,-97.672676,False,Approved/Permitted/Under construction,TX,Data_Centers_Database.xlsx
+,Not selected,Georgetown Data Center,30.60149,-97.6773,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,Lone Star Project,31.788519,-101.581985,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,MARA Bitcoin Mining Data Center,32.341797,-97.731636,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,Eneus Energy,26.226423,-97.63307,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Project Aquilla: Abbott Holding Data Center,31.964842,-97.123825,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Provident Data Center,32.08659,-97.09979,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,CyrusOne LLC - Houston West III Data Center,29.84402,-95.5609,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,"Serverfarm Data Center (CTX 1, CTX 2)",29.996,-95.5633,False,Expanding,TX,Data_Centers_Database.xlsx
+,Not selected,ENERGY CONTROL & DATA CENTER,29.94515,-95.5388,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,Nexus Data Center,31.825197,-96.75136,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Iron Mountain Data Center,30.512888,-97.489456,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Project Hutto,30.556295,-97.55823,False,Cancelled,TX,Data_Centers_Database.xlsx
+,Not selected,Project Raptor,30.54322,-97.57,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Skybox Hutto PowerCampus Data Center ,30.53681,-97.5178,False,Approved/Permitted/Under construction,TX,Data_Centers_Database.xlsx
+,Not selected,Edged  (DFW01-1),32.817696,-96.91813,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,QTS-Irving,32.89704,-96.9832,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,Jarrell Data Center,30.81534,-97.6328,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Houston One Data Center,29.803122,-95.75579,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,Onmine Data Center,31.062225,-97.76623,False,Suspended,TX,Data_Centers_Database.xlsx
+,Not selected,Lacy Lakeview Data Center ,31.66293,-97.110344,False,Approved/Permitted/Under construction,TX,Data_Centers_Database.xlsx
+,Not selected,Digital Bridge Data Center,32.57545,-96.6995,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,PowerCampus Dallas by Lancaster Data Center Campus LP,32.56777,-96.7739,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,Project Labrador (WHL Dallas 45 LLC),32.59966,-96.7302,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Project Oranger (WHL Dallas 45 LLC),32.57294,-96.6993,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,QTS Wilmer  (DFW2 and DC1),32.580692,-96.70294,False,Expanding,TX,Data_Centers_Database.xlsx
+,Not selected,Digital Realty Data Center,32.9994,-96.9996,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,BaRupOn Data Center,30.04849,-94.67973,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Tract Data Centers,29.91816,-97.7668,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Texas Solarworks LLC,33.62028,-101.7919,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Data Center THM1A,32.98045,-99.5673,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Project LufKin: Amp Z Data Center,31.3579,-94.677475,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,North East Data Center LLC,29.219522,-98.82438,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Legacy Data Center,29.520437,-98.154655,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Matagorda County Data Centers,28.74159,-95.9322,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Edged Austin,29.86609,-97.8132,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Prime DC AUS01 and AUS02,29.92406,-97.7511,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,1547 Data Center: MCTX1,26.20193,-98.2316,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,EXPERIAN DATA CENTER MCKINNEY,33.17172,-96.7252,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,SAT 93 and SAT94,29.424786,-98.81255,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Project Pumpkin 2A,35.691273,-100.6382,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,FO Permian Partners and HiVolt Energy Data Center,31.76912,-101.898,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,AREP PowerHouse Grand Prairie,32.47629,-97.0691,False,Approved/Permitted/Under construction,TX,Data_Centers_Database.xlsx
+,Not selected,Project Sharka: Google Data Center,32.444714,-97.05485,False,Approved/Permitted/Under construction,TX,Data_Centers_Database.xlsx
+,Not selected,Sharka Data Center (Google),32.44324,-97.0605,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,MIlan County Data Center,30.99355,-97.0035,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Cielo Digital Infrastructure,30.05179,-97.6772,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Project Gladys (Soluna),27.58049,-97.6401,False,Approved/Permitted/Under construction,TX,Data_Centers_Database.xlsx
+,Not selected,Project Fei (Soluna),34.37431,-100.094,False,Approved/Permitted/Under construction,TX,Data_Centers_Database.xlsx
+,Not selected,Project Hedy (Soluna),26.32319,-97.585,False,Approved/Permitted/Under construction,TX,Data_Centers_Database.xlsx
+,Not selected,Project Ellen (Soluna),26.2517,-97.4894,False,Approved/Permitted/Under construction,TX,Data_Centers_Database.xlsx
+,Not selected,Project Rosa (Soluna),26.2419,-97.8223,False,Approved/Permitted/Under construction,TX,Data_Centers_Database.xlsx
+,Not selected,CloudBurst Data Center,29.76201,-97.9909,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,APR Energy Data Center,35.54431,-101.004,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Project Annie (Soluna),33.65263,-95.6048,False,Approved/Permitted/Under construction,TX,Data_Centers_Database.xlsx
+,Not selected,Core Scientific,31.533497,-103.80071,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,GW Ranch (Pacifico Energy),31.147247,-102.89146,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Skybox - Austin 2,30.48241,-97.6246,False,Approved/Permitted/Under construction,TX,Data_Centers_Database.xlsx
+,Not selected,Cloverleaf Data Center: Project Open Sky,35.72121,-97.787,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Aligned DFW1 and DFW2,33.00918,-96.6745,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,CoreWeave Plano,33.01469,-96.7651,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,DataBank Data Centers - Legacy Park Plano,33.08736,-96.8139,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,DFW-04 Data Center,33.00439,-96.6502,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,Equinix DA7 Data Center,33.06499,-96.8109,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,Evocative DAL6,33.01578,-96.7688,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,Skybox Atlantic Station,33.00508,-96.7421,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,Pyote Data Center,31.52544,-103.117,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,Core Scientific,32.988132,-96.08421,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Databank: DFW11 and DFW12,32.53531,-96.7339,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Google Data Center,32.53763,-96.7968,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Red Oak Data Center 2,32.53665,-96.79767,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,Red Oak Data Center Campus,32.54188,-96.7998,False,Approved/Permitted/Under construction,TX,Data_Centers_Database.xlsx
+,Not selected,1210 Integrity Drive (DFW18),32.96639,-96.7138,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,1232 Alma Road Data Center,32.96619,-96.7159,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,365 Data Centers - Richardson,32.97615,-96.7073,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,850 E. Collins Boulevard (DFW28),32.96746,-96.7132,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,Richardson Data Center,32.98529,-96.6969,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,Cipher Data Center,31.47631,-96.96844,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,CORNERSTONE SOUTHWEST DATA CENTER,33.00576,-97.2459,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,Beacon Point Data Center,27.7903,-97.67,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Advanced Micro Devices Data Center,30.56359,-97.08498,False,Expanding,TX,Data_Centers_Database.xlsx
+,Not selected,Sabey Data Center,30.48796,-97.6468,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,Skybox Round Rock Data Center,30.5489,-97.6441,False,Approved/Permitted/Under construction,TX,Data_Centers_Database.xlsx
+,Not selected,Skybox Data Center,31.52764,-100.33235,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,AWS  (COPT Potranco),29.450626,-98.637535,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,AWS Rockfish 1,29.3019,-98.3888,False,Approved/Permitted/Under construction,TX,Data_Centers_Database.xlsx
+,Not selected,AWS Rockfish 2,29.45094,-98.6388,False,Approved/Permitted/Under construction,TX,Data_Centers_Database.xlsx
+,Not selected,AWS Rockfish 3,29.42085,-98.7818,False,Approved/Permitted/Under construction,TX,Data_Centers_Database.xlsx
+,Not selected,Chevron Data Center ,29.48045,-98.6963,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,CITICORP DATA SYSTEMS,29.41341,-98.7773,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,CyrusOne Data Center,29.46616,-98.6885,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,H5 Data Center,29.42938,-98.4868,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,LOWES DATA CENTER,29.47334,-98.69,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,Microsoft Data Center,29.46696,-98.7134,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Microsoft Data Center: SAT14,29.47118,-98.6785,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Microsoft Data Center: SAT15,29.46977,-98.7015,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Microsoft Data Center: SAT46,29.41427,-98.8029,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,MICROSOFT SAN ANTONIO DATA CENTER,29.47843,-98.693,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,MICROSOFT SAN ANTONIO DATA CENTER,29.47843,-98.693,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,NSA Texas Cryptology Center,29.44724,-98.6421,False,Approved/Permitted/Under construction,TX,Data_Centers_Database.xlsx
+,Not selected,QTS San Antonio,29.44862,-98.6509,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,SAT 80-82 Data Center Campus,29.43363,-98.8263,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Stream Data Center,29.47177,-98.6716,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,TX11: Vantage Data Center,29.4181,-98.7897,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,TX12: Vantage Data Center,29.42026,-98.8087,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,TX21: Vantage Data Center,29.47603,-98.6976,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,TX22: Vantage Data Center,29.479109,-98.697105,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,CloudBurst ,29.766788,-97.98101,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Highlander SM One LLC,29.79031,-97.9952,False,Suspended,TX,Data_Centers_Database.xlsx
+,Not selected,Project Kati 1 and 2 (Soluna),26.37778,-97.5874,False,Approved/Permitted/Under construction,TX,Data_Centers_Database.xlsx
+,Not selected,Project Dorothy 1A and 1B (Soluna),34.39186,-101.315926,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,Project Dorothy 2 (Soluna),34.39169,-101.314964,False,Approved/Permitted/Under construction,TX,Data_Centers_Database.xlsx
+,Not selected,Oppidan Data Center,31.67769,-106.289,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Sugar Land Data Center,29.62003,-95.6306,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,MSB Global Services Matrix Data Center,33.08515,-95.546,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Sweetwater 1 and 2,32.533386,-100.409615,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Blueprint Projects ,30.56745,-97.38766,False,Approved/Permitted/Under construction,TX,Data_Centers_Database.xlsx
+,Not selected,Project Comal,30.546633,-97.4439,False,Approved/Permitted/Under construction,TX,Data_Centers_Database.xlsx
+,Not selected,Meta Data Center,31.13252,-97.3644,False,Approved/Permitted/Under construction,TX,Data_Centers_Database.xlsx
+,Not selected,Polmer Data Center,31.13391,-97.3723,False,Approved/Permitted/Under construction,TX,Data_Centers_Database.xlsx
+,Not selected,Rowan Digital Infrastructure Data Center,31.06445,-97.2875,False,Approved/Permitted/Under construction,TX,Data_Centers_Database.xlsx
+,Not selected,Rowan Digital Infrastructure Data Center,31.05745,-97.2979,False,Approved/Permitted/Under construction,TX,Data_Centers_Database.xlsx
+,Not selected,Texarkana Data center,33.4248,-94.044,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,Huge Data Center development,35.48043,-101.622,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,PowerHouse Data Centers,29.919369,-97.772064,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Black Mountain Power Data Center,29.270124,-98.57086,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Midlothian 1 Data Center,32.4049,-97.0522,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Midlothian 2 Data Center,32.3897,-97.05,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Midlothian 3 Data Center,32.3862,-97.064,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Midlothian 4 Data Center,32.3862,-97.064,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Midlothian 5 Data Center,32.3757,-97.0817,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Midlothian 6 Data Center,32.3797,-97.0997,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Venus Data Center,32.43176,-97.0869,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Rowdy Data Center,34.08236,-99.1772,False,Operating,TX,Data_Centers_Database.xlsx
+,Not selected,Crusoe/ Blue Energy Data Center,28.68914,-96.96172,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,CyrusOne: DFW10,31.860664,-97.35856,False,Approved/Permitted/Under construction,TX,Data_Centers_Database.xlsx
+,Not selected,DFW-10 Data Center,31.85679,-97.3625,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Willis Data Center (Comcast),30.43083,-95.4817,False,Proposed,TX,Data_Centers_Database.xlsx
+,Not selected,Antelope Data Center,37.795376,-113.37061,False,Approved/Permitted/Under construction,UT,Data_Centers_Database.xlsx
+,Not selected,BluSky AI,39.50757,-112.601,False,Proposed,UT,Data_Centers_Database.xlsx
+,Not selected,Fibernet MercuryDelta Campus/Delta Gigasite,39.28873,-112.465,False,Proposed,UT,Data_Centers_Database.xlsx
+,Not selected,"Joule Capital Partners, LLC Data Center",39.19891,-112.36232,False,Proposed,UT,Data_Centers_Database.xlsx
+,Not selected,Dugway Proving Ground Data Center,40.21857,-112.74486,False,Proposed,UT,Data_Centers_Database.xlsx
+,Not selected,Joule Power AI Data Center Campus,39.199276,-112.37303,False,Proposed,UT,Data_Centers_Database.xlsx
+,Not selected,Provo Data Center,40.214108,-111.65521,False,Suspended,UT,Data_Centers_Database.xlsx
+,Not selected,Summit Ridge Data Center,39.946636,-111.80722,False,Proposed,UT,Data_Centers_Database.xlsx
+,Not selected,"Stratos Project, eastern parcels",41.786148,-112.64388,False,Approved/Permitted/Under construction,UT,Data_Centers_Database.xlsx
+,Not selected,"Stratos Project, western parcels",41.784256,-112.898346,False,Approved/Permitted/Under construction,UT,Data_Centers_Database.xlsx
+,Not selected,"SLC Data Center Campus, SLC-01, 02, 03",40.58617,-111.97,False,Expanding,UT,Data_Centers_Database.xlsx
+,Not selected,Bull Church Data Center,38.009125,-77.49331,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Green Energy Ventures Data Center,38.256557,-77.29122,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Ladysmith Technology Park,38.0269,-77.50431,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,24244 QUAIL RIDGE LN,38.94905,-77.56043,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Allegro North Campus,38.95632,-77.54516,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,ALLEGRO SOUTH CAMPUS,38.949844,-77.54914,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Plaza 500,38.802273,-77.142525,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Avaio Digital Partners,37.355537,-78.82243,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,19508 Freedom Trail Road,39.076466,-77.49912,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,21310 BEAUMEADE CIR,39.01585,-77.45341,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,21455 Beaumeade Circle,39.011536,-77.452644,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,21673 BEAUMEADE CIRCLE LLC,39.019413,-77.45795,False,Expanding,VA,Data_Centers_Database.xlsx
+,Not selected,21745 BEAUMEADE CIR,39.018513,-77.4589,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,21821 UUNET DR,39.010254,-77.474976,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,43831 DEVIN SHAFRON DR,39.002693,-77.485344,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,44470 Chilum Place,39.02221,-77.46144,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,44490 CHILUM PL,39.02134,-77.4583,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,44520 HASTINGS DR,39.019936,-77.45989,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,44621 WAXPOOL RD,39.01214,-77.46291,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,44790 PERFORMANCE CIR,39.02357,-77.450905,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,ACC11 Digital Realty,39.014893,-77.46363,False,Expanding,VA,Data_Centers_Database.xlsx
+,Not selected,ACC4 Digital Realty,39.017944,-77.46266,False,Expanding,VA,Data_Centers_Database.xlsx
+,Not selected,ACC5 ACC6 Digital Realty,39.020702,-77.46347,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,ACC7 Digital Realty,39.01753,-77.465675,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,AID1 DataBank,39.015617,-77.48247,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,ALIGNED DATA CENTER IAD01,39.013935,-77.46997,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,ALIGNED ENERGY DATA CENTERS ASHBURN,39.01321,-77.47297,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,ASH1-BRODERICK DC2,38.99814,-77.44936,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,ASH3 DC2,38.998657,-77.47419,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Ashburn Data Center,39.02697,-77.44413,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,BCORE COPT DC-15,39.026398,-77.45115,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,BEAUMEADE LC PHASE III LLC,39.03638,-77.44979,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Belmont Innovation Campus,39.072826,-77.50972,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,BLUE SLING ACC 9,39.01549,-77.46758,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,BRAMBLETON SHREVEPORT SOUTH DATA CENTER,38.95967,-77.52909,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,CLOUD HQ LC3,39.011154,-77.45961,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,CYRUSONE BROADLANDS DATA CENTER,39.033375,-77.521706,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,DARAB VENTURES SIX,39.005962,-77.47724,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,DBT-DATA ASHBURN HOLDING I,39.0249,-77.45765,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,DC 8 9 10 DE,39.02908,-77.45896,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Digital Filigree,39.013676,-77.45641,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,DIGITAL-GCEAR1 ASHBURN,39.00286,-77.48192,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,DIGITAL REALTY ACC10,39.013275,-77.46602,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,DULLES BERRY LC4,39.00252,-77.47228,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,EQUINEX DC13,39.012604,-77.475334,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,EQUINIX ASHBURN EAST,39.01383,-77.45399,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Equinix Data Center,39.02129,-77.4518,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,EQUINIX DC21,39.011864,-77.45481,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Filigree Ct Campus,39.015854,-77.459885,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,H5 Data Center,39.01393,-77.4516,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,IAD114,39.03563,-77.450935,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,IAD12,39.001984,-77.48332,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,IAD14,39.003296,-77.48721,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,IAD24,39.00466,-77.48497,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,IAD3 DataBank,39.01779,-77.48172,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,"IAD 41, IAD 42, BLDG P",39.008408,-77.45795,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,IAD Digital Loudoun Plaza,39.000828,-77.4792,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,IAD Round Table Campus Digital Realty,39.00663,-77.466194,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Loudoun County Pkwy Data Center,39.01003,-77.46274,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,MONTEREY DC ASSETS,39.021942,-77.45329,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,NTT Global Data Centers,39.018154,-77.47289,False,Expanding,VA,Data_Centers_Database.xlsx
+,Not selected,PowerHouse/AREP ABX-1,39.01958,-77.45049,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,QTS DATA CENTER ASH3-DC1,38.998035,-77.47548,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,RAGING WIRE VA1,39.02266,-77.45487,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Red Rum Dr Campus Sabey Data Centers,39.0147,-77.478455,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Regency HOA area ,39.011425,-77.485016,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Sabey Data Center,39.0155,-77.4783,False,Approved/Permitted/Under construction,VA,Data_Centers_Database.xlsx
+,Not selected,SDC ASHBURN I,38.99621,-77.47164,False,Expanding,VA,Data_Centers_Database.xlsx
+,Not selected,STACK NVA04,38.999165,-77.460785,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,STACK NVA04,39.000748,-77.460304,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,STACK NVA04,39.002777,-77.46116,False,Expanding,VA,Data_Centers_Database.xlsx
+,Not selected,Tech Park at Brambleton,38.956566,-77.53436,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,TELOS DATA CENTER,39.067024,-77.47857,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Vantage VA 3,39.077393,-77.506165,False,Expanding,VA,Data_Centers_Database.xlsx
+,Not selected,Vantage VA 3,39.079758,-77.506546,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,VISA USA INC,39.049206,-77.445564,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Zebra East,39.00505,-77.471504,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Brambleton Business Campus Data Center,38.95391,-77.51837,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Hanover-Ashland Data Center,37.75563,-77.449936,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Ironhorse East Ashland,37.759018,-77.4508,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected, LS Power ,37.810474,-77.4485,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Pixel Factory,37.69901,-77.43627,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Tract Technology Campus,37.786198,-77.4404,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,WestDulles Data Center,37.75533,-77.44565,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Brush Mountain Blacksburg,37.203728,-80.4118,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Microsoft Azure,36.69652,-78.36116,False,Expanding,VA,Data_Centers_Database.xlsx
+,Not selected,Microsoft Data Center,36.67847,-78.3752,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Microsoft Ridge Road Campus,36.69182,-78.3648,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Bristow Campus,38.73797,-77.54125,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Delvin Technology Park,38.767223,-77.57575,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Gainsville Tech Park,38.780186,-77.568985,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Hunter Property,38.773407,-77.59043,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,MICROSOFT CORPORATION,38.784103,-77.567726,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,"NOVA MANGO FARMS LLC
+ C/O CORPORATION SERVICE COMPANY",38.77619,-77.583405,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,PROJECT INDUSTRY,38.781742,-77.579185,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,SES AMERICOM INC,38.78381,-77.57232,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Sharpless Enterprises LLC,38.786884,-77.57505,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,SI NVA17 LLC,38.734524,-77.54742,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,MANUCHEHR VENTURES LLC,38.715088,-77.49477,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Compton Property SUP,38.775803,-77.51027,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Catlett Data Center Park,38.661777,-77.63222,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Headwaters Site Development LLC,38.66282,-77.6317,False,Suspended,VA,Data_Centers_Database.xlsx
+,Not selected,Warrenton Amazon Data Center,38.729473,-77.78753,False,Approved/Permitted/Under construction,VA,Data_Centers_Database.xlsx
+,Not selected,Amazon Web Services Mallory,38.904926,-77.45381,False,Expanding,VA,Data_Centers_Database.xlsx
+,Not selected,LEE ROAD PROPERTY,38.890537,-77.453674,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,"PARKSTONE TECH PARK, LLC",38.87255,-77.46563,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,PDCREF 2 Chantilly,38.903057,-77.46525,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Penzance Development Data Center,38.90522,-77.4554,False,Approved/Permitted/Under construction,VA,Data_Centers_Database.xlsx
+,Not selected,SCG Global Holdings LLC Data Center,38.91267,-77.451675,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,TFG INDEPENDENCE CENTER I PROPERTY,38.880272,-77.462234,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,AWS IAD61-IAD63 South Riding,38.916767,-77.4938,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,AWS Westfax A,38.897987,-77.454025,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,AWS Westfax B,38.899593,-77.45344,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,CHANTILLY TECHNOLOGY PARTNERS,38.91007,-77.472694,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Diode Ventures Data Center,37.46036,-77.1559,False,Cancelled,VA,Data_Centers_Database.xlsx
+,Not selected,LYH03 Bailey – Microsoft,36.780624,-78.467834,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Pittsylvania County Data Center,36.84796,-79.370255,False,Cancelled,VA,Data_Centers_Database.xlsx
+,Not selected,Chesterfield Google Data Center,37.34593,-77.3102,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,CoreWeave,37.36344,-77.3273,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Digital Fortress: Richmond,37.36048,-77.32741,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Project Peanut,37.34457,-77.30399,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Tract Data Center,37.29442,-77.453,False,Suspended,VA,Data_Centers_Database.xlsx
+,Not selected,Virginia Information Technologies Agency,37.360416,-77.33178,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Clarksville Data Center Campus,36.63564,-78.5181,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Cielo Digital Infrastructure,38.466785,-77.96353,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,CloudHQ,38.46164,-77.977615,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Copper Ridge,38.465294,-77.98739,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Culpeper Data Center ,38.47151,-77.9693,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Culpeper Technology Campus,38.46024,-77.98773,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,DataBank,38.44996,-77.97819,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Equinix Data Center,38.45487,-77.9783,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Keyser Farm,38.46971,-77.973755,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,SWIFT,38.45554,-77.98348,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,XX Tech Park,38.49927,-77.8971,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Greenfield,37.441696,-79.9127,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Duffield Premier Data Center Site,36.712566,-82.802505,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Scott County Regional Business & Technology Park,36.715855,-82.80459,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,DIGITAL LOUDOUN IV,39.005142,-77.451195,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Fadeley Campus,38.948956,-77.52148,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Farah-Naples Data Center,38.95731,-77.51306,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,IAD44,38.96118,-77.490524,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Northwoods Property,38.980717,-77.49382,False,Expanding,VA,Data_Centers_Database.xlsx
+,Not selected,SENTINEL ASHBURN II,39.000603,-77.43986,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,WATERSIDE AWS,38.98125,-77.41793,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,WHEELER SURVEY COMPANY,38.942364,-77.52864,False,Expanding,VA,Data_Centers_Database.xlsx
+,Not selected,Mid-Atlantic Advanced Manufacturing Center,36.736736,-77.514694,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,BIT HOLDINGS FIFTY-FOUR,38.860844,-77.39341,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,COPT STONECROFT,38.876263,-77.46178,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Data center,38.846428,-77.36562,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Northrop Grumman Systems Corporation,38.92188,-77.20684,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Northrop Grummon Systems Corporation,38.867813,-77.21562,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Heartland Innovative Technology (HIT) Park,37.288517,-78.35012,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Amazon Data Services,38.19853,-77.475,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Amazon Data Services: Carter's Store Tech Campus,38.191605,-77.47005,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Amazon Data Services: Cosner Tech Campus,38.198624,-77.47505,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Blaisdell Property Data Center,38.33172,-77.48733,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Carter's Store Tech Campus,38.18951,-77.45481,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Cosner Tech Campus,38.209717,-77.48423,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Cranes Corner Data Center,38.371296,-77.45144,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Enon Road Technologies,38.36789,-77.47358,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Forest Lane Data Center,38.26742,-77.3867,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,George Washington Village Data Center,38.40892,-77.44693,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Hunters Ridge LLC Data Center,38.22135,-77.47741,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Hunter's Ridge South,38.12168,-77.504196,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Hunters Ridge South Data Center (Amazon Data Services),38.21137,-77.4848,False,Approved/Permitted/Under construction,VA,Data_Centers_Database.xlsx
+,Not selected,NEON AT CELEBRATE VIRGINIA SOUTH,38.318707,-77.51735,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Oasis Data Center,38.30967,-77.1084,False,Approved/Permitted/Under construction,VA,Data_Centers_Database.xlsx
+,Not selected,Penzance Development Data Center,38.29463,-77.5023,False,Suspended,VA,Data_Centers_Database.xlsx
+,Not selected,PowerHouse95,38.222046,-77.4771,False,Expanding,VA,Data_Centers_Database.xlsx
+,Not selected,Sisson North,38.25873,-77.38705,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Stack Infrastructure Data Center,38.31828,-77.5166,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Summit Crossing (Amazon),38.19338,-77.43845,False,Approved/Permitted/Under construction,VA,Data_Centers_Database.xlsx
+,Not selected,Summit Crossing Tech Campus,38.188473,-77.44053,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Summit Technology Park,38.19514,-77.43207,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Vantage Data Center,38.39153,-77.46516,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,COPT DC 19 LLC,38.779423,-77.54248,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Gainesville Crossing Data Campus,38.801327,-77.5803,False,Expanding,VA,Data_Centers_Database.xlsx
+,Not selected,Gainsville East,38.790676,-77.587975,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Gardner Property,38.7958,-77.62219,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,GCDC PURCHASER PHASE 1 LLC,38.802406,-77.58256,False,Expanding,VA,Data_Centers_Database.xlsx
+,Not selected,I-66 and Route 29 Technology Park,38.8008,-77.61256,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,John Marshall CommonsTech Park,38.803947,-77.61687,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,NTT Data Center,38.800114,-77.60961,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,PORPOISE VENTURES LLC (Digital Realty Trust),38.778057,-77.59468,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Prince William Digital Gateway,38.82437,-77.56874,False,Cancelled,VA,Data_Centers_Database.xlsx
+,Not selected,University Business Park,38.79446,-77.58242,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Village Place at Gainesville Technology Park,38.801834,-77.6206,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Cavalier Innsbrook Data Center,37.660877,-77.57392,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Hunter Hawking Data Center,37.71385,-77.6231,False,Cancelled,VA,Data_Centers_Database.xlsx
+,Not selected,Tract Data Center,37.688793,-77.54134,False,Suspended,VA,Data_Centers_Database.xlsx
+,Not selected,Unnamed Data Center,36.98035,-79.35187,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,DBT Data Cyber Integration Center,38.462486,-78.8568,False,Expanding,VA,Data_Centers_Database.xlsx
+,Not selected,AMAZON DATA SERVICES INC,38.815937,-77.652245,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,DC 11 DE LLC (Amazon),38.815174,-77.64868,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,EdgeConneX Richmond - EDCRIC01,37.63892,-77.46779,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Lumen Richmond 2,37.623894,-77.50267,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Equinix DC 97,38.96167,-77.37743,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Renaissance Technology Park,38.932446,-77.42387,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,DC-4,38.75263,-77.5165,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,EdgeCore,37.88311,-78.0388,False,Suspended,VA,Data_Centers_Database.xlsx
+,Not selected,Birchwood AWS,38.266403,-77.317726,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Dahlgren West,38.30985,-77.11264,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Cochran Mill Road,39.074635,-77.51654,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,COMPASS DATACENTERS IAD I,39.04382,-77.5376,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Cross Mill Center,39.06295,-77.550476,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Cross Mill Center Data Center,39.06358,-77.5522,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Curata Partners Leesburg Data Center,39.03693,-77.56153,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Greenlin Park,39.056362,-77.55221,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,HAYDEN TECHNOLOGIES,39.051716,-77.53956,False,Expanding,VA,Data_Centers_Database.xlsx
+,Not selected,IAD 01-04,39.067856,-77.56021,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Leesburg Data Center,39.06878,-77.5313,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Leesburg Gateway,39.103153,-77.536385,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Leesburg Gateway ,39.105076,-77.536705,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,NVA06 Campus,39.082626,-77.56523,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,NVA06 Campus,39.080227,-77.56473,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Oaklawn,39.091972,-77.56057,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Orme Farm Rezoning,39.059395,-77.55797,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Project Celtic Phase 1,39.056915,-77.54663,False,Expanding,VA,Data_Centers_Database.xlsx
+,Not selected,Project Celtic Phase 2,39.0539,-77.54465,False,Expanding,VA,Data_Centers_Database.xlsx
+,Not selected,Tuscarora Crossing Landbay 3,39.077232,-77.533745,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Villages at Leesburg,39.087734,-77.5195,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Spring Valley Technology Park,39.001057,-77.57126,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Wilderness Crossing,38.33316,-77.73109,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Amazon Data Center,37.98242,-77.9511,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,North Creek Tech Campus,37.968376,-77.95334,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Amazon Data Center,38.00263,-77.94,False,Cancelled,VA,Data_Centers_Database.xlsx
+,Not selected,Desper Creek Technology Campus (AWS Data Center),37.97047,-77.9546,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Data center,37.3761,-79.0327,False,Cancelled,VA,Data_Centers_Database.xlsx
+,Not selected,9001 Hornbaker Rd,38.762554,-77.53385,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,ABTEEN VENTURES LLC (CloudHQ),38.716854,-77.49974,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Airport Gateway Commerce Center,38.715843,-77.49836,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,AIRPORT GATEWAY COMMERCE CENTER,38.72144,-77.49643,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,ALEXANDRIA TECHNOLOGY CENTER,38.756546,-77.51377,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Alligned Data Centers (Balls Ford),38.799274,-77.52802,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Amazon Data Center,38.792118,-77.53619,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Amazon Data Center,38.733845,-77.51592,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Amazon Data Center,38.7977,-77.54477,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Amazon Data Center,38.7956,-77.54214,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,AMAZON DATA SERVICES INC,38.789906,-77.54799,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,AMAZON DATA SERVICES INC,38.79109,-77.54837,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,AMAZON DATA SERVICES INC,38.792156,-77.54833,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,AMAZON DATA SERVICES INC,38.734943,-77.504524,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Ashwood Addition,38.731693,-77.51026,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,BOURZOU VENTURES LLC (CloudHQ),38.72298,-77.49923,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,COPT DC INNOVATION LLC,38.74406,-77.529854,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,DC 12 14 DE LLC (Amazon),38.778107,-77.558235,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Digital Second Manassas,38.737873,-77.508286,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,EQUINIX LLC,38.80344,-77.510796,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,GI TC 7510 MASON KING CT LLC (Amazon),38.790344,-77.54118,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,INNOVATION EXECUTIVE CENTER DC-3,38.75278,-77.51228,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Iron Mountain Building 7,38.775063,-77.539795,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Iron Mountain Data Center VA-1,38.77727,-77.5477,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Iron Mountain Data Center VA-5,38.77139,-77.5423,False,Approved/Permitted/Under construction,VA,Data_Centers_Database.xlsx
+,Not selected,KH Data Capital Development,38.77393,-77.54234,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,"KH DATA CAPITAL DEVELOPMENT LAND LLC
+ C/O IRON MOUNTAIN GLOBAL REAL ESTATE",38.7768,-77.54394,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Manassas Corporate Center MCC-7 PRA,38.722412,-77.50135,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Manassas Data Center,38.75382,-77.5245,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,MANASSAS NCP LLC,38.760582,-77.51869,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Manassas Point,38.783833,-77.53779,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,MANASSAS TECHNOLOGY PARTNERS LLC (Amazon),38.791252,-77.53829,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,MCC5,38.719757,-77.49309,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,MCI COMMUNICATION SERVICES LLC VERIZON GLOBAL REAL ESTATE,38.80486,-77.51249,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Mid-County Industrial Park,38.63156,-77.41153,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,NVA05A & NVA05B Proffer Amendment and Rezoning,38.760544,-77.51536,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,NVA15 LLC,38.74385,-77.53758,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,NVA16 LLC,38.748554,-77.53744,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,PARSONS BUSINESS PARK LLC,38.645596,-77.4416,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Potomac Technology Park/ Quantico Ridge,38.630245,-77.42247,False,Cancelled,VA,Data_Centers_Database.xlsx
+,Not selected,POWERLOFT @ INNOVATION I,38.74736,-77.53177,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Project Well,38.780552,-77.56264,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,QTS Manassas DC 2,38.752438,-77.513145,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,QTS Manassas DC 5,38.75485,-77.51758,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,QTS MANASSAS I DC3 LLC,38.753265,-77.510345,False,Expanding,VA,Data_Centers_Database.xlsx
+,Not selected,QTS MANASSAS I DC6 LLC,38.75438,-77.509895,False,Expanding,VA,Data_Centers_Database.xlsx
+,Not selected,SI NVA02 LLC A1A,38.74435,-77.53293,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,SI NVA02 LLC A2A,38.743156,-77.53342,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,SI NVA 04 LLC (Avanti at Innovation),38.74576,-77.53817,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,SI NVA05 LLC,38.748386,-77.521545,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,SI NVA06 LLC,38.747314,-77.51989,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,SI NVA07 LLC,38.746647,-77.51876,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,SI NVA08 LLC,38.746067,-77.51748,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,South Point Phase II LLC,38.77665,-77.5567,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Stoneview,38.76551,-77.51943,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,"UNICORN INTERESTS LLC, PCL C1",38.719288,-77.496185,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,VA6B1 and VA6B2,38.76804,-77.53841,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Vulcan Data Center,38.77115,-77.51435,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,WELLINGTON GLEN TECHNOLOGY PARK,38.764816,-77.54452,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Wellington Road PRA,38.763477,-77.513535,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Westview 66,38.79625,-77.53552,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,NVA05C,38.761223,-77.511635,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Roosevelt Building,38.919983,-77.211754,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Middletown Data Center,39.01765,-78.29093,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Project Loch,37.499065,-77.69161,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Province Group @Powhatan Technology Park,37.50839,-77.73239,False,Approved/Permitted/Under construction,VA,Data_Centers_Database.xlsx
+,Not selected,Project Loch (Google),37.49932,-77.6884,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Lake Anna Tech Campus,38.04825,-77.80991,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Project Skye (Google),37.44824,-77.781,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Upper Magnolia Green East,37.42037,-77.75997,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Upper Magnolia Green West Tract A and Tract B,37.444225,-77.77384,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,EdgeConneX Norfolk,36.86186,-76.235344,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Zone5,36.87813,-76.21608,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Perspecta Datacenter Campus,38.923347,-77.426834,False,Expanding,VA,Data_Centers_Database.xlsx
+,Not selected,Convergent Technology Park,38.546986,-77.80626,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Gigaland LLC Data Center,38.5367,-77.7811,False,Suspended,VA,Data_Centers_Database.xlsx
+,Not selected,Gigaland Remington,38.534485,-77.78287,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Remington Technology Park,38.54051,-77.78908,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,SAMX Data Center,38.543182,-77.7834,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Remington Innovation Campus,38.56304,-77.77671,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Coresite 12100 SV & 12098 SV,38.948456,-77.371704,False,Expanding,VA,Data_Centers_Database.xlsx
+,Not selected,LEMUR PROPERTIES LLC,38.948555,-77.32714,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,RDC-1807 MICHAEL FARADAY COURT,38.948864,-77.32922,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Science Applications International Corp (SAIC),38.952652,-77.34998,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,SUNRISE TECHNOLOGY PARK,38.950703,-77.36489,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Azalea,37.604717,-77.423416,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Infotel Systems Data Center,37.61285,-77.47348,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Lumen Richmond 1,37.646786,-77.438446,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Richmond Data Center,37.60576,-77.4211,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Wagner Urban Logistics LLC Data Center,37.48448,-77.3579,False,Suspended,VA,Data_Centers_Database.xlsx
+,Not selected,Google Data Center: Center for Research and Technology,37.33734,-79.9992,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Google Data Center: Summit View Business Park,37.07742,-79.9252,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Green Energy Center,37.152023,-76.685074,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,ADP Ladysmith Data Hub,38.00433,-77.50445,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Airlee Industrial and Data Center Site,37.997375,-77.50243,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Carmel Church Data Hub,37.939327,-77.477974,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Carmel Technology & Enterprise Center,37.924026,-77.50552,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Caroline Center for Innovation,37.942783,-77.41627,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Caroline Center for Innovation - North,37.95119,-77.42421,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,CleanArc Data Center (VA1),38.01594,-77.4973,False,Approved/Permitted/Under construction,VA,Data_Centers_Database.xlsx
+,Not selected,Thornberry Data Center Campus,37.95416,-77.40686,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,VALCO Data Center Park,37.93823,-77.54898,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,VALCO Data Center Park,37.924103,-77.54387,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Valo Park,38.932384,-77.21859,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Google Data Center,37.2685,-80.1678,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Atlantic Crossing,37.504288,-77.26043,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Bank of America,37.495663,-77.23808,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Meta Henrico Data Center,37.48185,-77.236465,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Meta Richmond Data Center,37.47831,-77.22688,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Project Tropical,37.4738,-77.23478,False,Expanding,VA,Data_Centers_Database.xlsx
+,Not selected,Sandston Data Center Campus,37.47669,-77.2329,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,White Oak Tech Park (QTS),37.489464,-77.24603,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Hillcrest Data Center,36.70315,-78.12708,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Microsoft,36.70687,-78.1278,False,Approved/Permitted/Under construction,VA,Data_Centers_Database.xlsx
+,Not selected,South Hill Data Center Campus,36.74631,-78.1018,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,AWS H&M Property,38.92111,-77.4863,False,Expanding,VA,Data_Centers_Database.xlsx
+,Not selected,Firefox Dulles,38.920612,-77.472885,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Sutton Bay,38.91631,-77.47834,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Gateway Commerce Center,38.165024,-77.529495,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,SpotsyTech Campus,38.15994,-77.51494,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,AWS Loisdale Station,38.742268,-77.186424,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,VA 95 BUILDING NINE LP,38.739193,-77.20798,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Accokeek Center,38.403713,-77.427,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Austin Ridge Logisitics Center,38.4145,-77.43574,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,GWV,38.419758,-77.44698,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Old Potomac Church Data Center,38.411324,-77.40424,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Stack Data Center,38.38504,-77.4276,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Stafford Technology Campus,38.38512,-77.43162,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,113 EXECUTIVE DR Prologis,38.99067,-77.44434,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,1304 SQUIRE CT,39.02153,-77.43476,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,1501 Moran Road,38.995197,-77.44623,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,21641 CHARLES VIEW DR,39.017963,-77.43968,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,22350 KIPPER DR AWS,38.99509,-77.43511,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,22370 KIPPER DR AWS,38.996964,-77.43581,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,22660 Executive Dr Prologis,38.989754,-77.44206,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,22945 INTERNATIONAL DR AWS,38.98216,-77.42751,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,23005 INTERNATIONAL DR,38.98,-77.42562,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,45845 NOKES BLVD,39.02387,-77.41527,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Aligned: IAD03,38.98857,-77.4409,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,AWS: IAD58,38.98633,-77.4419,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,C1 NORTHERN VA - STERLING I-III,39.026066,-77.414536,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,CORSCALE VA2 BLDG 1,39.03804,-77.433716,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,CPUS STERLING LP,38.987747,-77.410866,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,CYXTERA COLOCATION,39.0248,-77.41234,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,CYXTERA DC2 COLOCATION,39.023247,-77.413185,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,DATA CENTER BUILDING C,38.99172,-77.448555,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,DC 21/IAD 98,39.01946,-77.434006,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,DCT DULLES DOWNS Land Bay A,38.991177,-77.44137,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,DCT DULLES DOWNS Land Bay B,38.98938,-77.43785,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,DCT DULLES DOWNS Land Bay B,38.990135,-77.437294,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,DCT DULLES PHASE II,38.988132,-77.450516,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,DIGITAL STERLING PREMIER,38.99004,-77.43468,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Dulles 2000 Redevelopment,38.975124,-77.42687,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Dulles 28 Technology Park,39.0084,-77.44291,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Dulles Commerce,38.961967,-77.49829,False,Expanding,VA,Data_Centers_Database.xlsx
+,Not selected,DULLES NCP LLC,38.9824,-77.42485,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,DULLES NORTH CORPORATE PARK 8,38.995342,-77.432556,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Dulles Trade Center West,38.95402,-77.52864,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,FR SUMMIT AWS,38.98871,-77.44765,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,GI TC 45360 SEVERN WAY LLC,39.021675,-77.432915,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,HORSESHOE DRIVE,39.026024,-77.411606,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,IAD03,38.993076,-77.43411,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,IAD214,38.986732,-77.43558,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,IAD2 Evoque Cyxtera,38.984196,-77.42402,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,IAD3 Evoque Cyxtera,38.98106,-77.444336,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,IAD57 Data Center,38.98704,-77.4426,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,IAD76,38.994057,-77.45023,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,JK TECHNOLOGY PARK #3,38.945557,-77.54126,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Loudoun Commerce Center,39.0224,-77.41007,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Manekin Plaza,39.023773,-77.40789,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,MARIES TECH PARK LLC,39.024,-77.4195,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,MECP1 ASHBURN 1 LLC,39.028484,-77.42769,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,MECP 1 ASHBURN 2 LLC,39.02199,-77.415115,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,MECP2 ASHBURN 2 LLC,39.03041,-77.429016,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,MECP3 ASHBURN 3 LLC,39.03235,-77.42991,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,ME-DC Pacific,38.999855,-77.445175,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,NV-4 CYRUSONE LLC,38.984684,-77.42581,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,NV-8 CYRUSONE,39.021248,-77.41337,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,NV-9 CYRUSONE,38.958664,-77.50507,False,Expanding,VA,Data_Centers_Database.xlsx
+,Not selected,NVA01 STACK INFRASTRUCTURE,39.004543,-77.44198,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Paragon Park Lot 3B,39.01517,-77.43475,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,PROLOGIS-EXCHANGE 43461 OLD OX ROAD,38.95321,-77.49552,False,Expanding,VA,Data_Centers_Database.xlsx
+,Not selected,PROLOGIS-EXCHANGE 43461 OLD OX ROAD,38.95745,-77.49768,False,Expanding,VA,Data_Centers_Database.xlsx
+,Not selected,Prologis NOVA 1,38.98944,-77.44955,False,Expanding,VA,Data_Centers_Database.xlsx
+,Not selected,PROLOGIS PARK GATEWAY II,38.98795,-77.43817,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,QTS Ashburn-Moran,38.99446,-77.44814,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,QTS BRODERICK ACQUISITION CO LLC,38.999104,-77.44982,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,QTS Lockridge ASH2 Quality Tech Lane DC1,38.995537,-77.455315,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,QTS Lockridge ASH2 Quality Tech Lane DC2,38.995434,-77.456924,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,RIDGETOP CENTER,39.024727,-77.409904,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,SHAW ROAD BUSINESS PARK,38.98132,-77.42225,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Sterling Data Center,38.99129,-77.4414,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,"STERLING VI, V",39.02435,-77.434105,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Thayer Road,39.026966,-77.42448,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,VANTAGE DATA CENTERS VA11,39.002132,-77.43738,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,VANTAGE DATA CENTERS VA12,39.003056,-77.4401,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Vantage V2 Campus 22318 Glenn Drive,38.997974,-77.43019,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,VERISIGN INC,38.997738,-77.44368,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Western Lands,38.954502,-77.48892,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,108 CARPENTER DRIVE,38.99123,-77.42243,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,ARCOLA,38.94413,-77.5357,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Arcola Pacific Campus,39.004864,-77.44699,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,DULLES DISTRIBUTION Landbay A,38.980274,-77.441475,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,DULLES DISTRIBUTION Landbay B,38.978138,-77.4419,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Dulles Electric Data Centers,38.99133,-77.42659,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,GLENN DRIVE NORTH & SOUTH,38.988274,-77.416306,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,MERCURE BUSINESS PARK LOT 22,38.98593,-77.478325,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,MERCURE BUSINESS PARK LOT 4A1B,38.98479,-77.48216,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,MERCURE BUSINESS PARK LOTS 19 AND 20,38.985,-77.47932,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,VA 16,38.99909,-77.44114,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Marvell Developments,38.435802,-77.87576,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,42139 REEDS FARM LN,38.944927,-77.549866,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,IAD11,38.948166,-77.55538,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Quail Ridge C - D,38.94839,-77.55884,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Google Data Center,37.44555,-79.9223,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,ELIAS DC ASSETS,38.91998,-77.21348,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Tysons Enterprise West,38.909004,-77.2205,False,Expanding,VA,Data_Centers_Database.xlsx
+,Not selected,Globalinx Virginia Beach,36.783707,-76.00894,False,Operating,VA,Data_Centers_Database.xlsx
+,Not selected,Telxius Cable Landing Station Virginia Beach,36.777546,-76.00713,False,Expanding,VA,Data_Centers_Database.xlsx
+,Not selected,DATA CENTER VINT HILL,38.747417,-77.674255,False,Expanding,VA,Data_Centers_Database.xlsx
+,Not selected,Maple Tree Farm,38.691586,-77.77973,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Vint Hill Technology Campus (CyrusOne),38.75228,-77.67349,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Vint Hill Corners,38.744583,-77.68534,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,DP Facilities: Mineral Gap,36.978065,-82.52703,False,Expanding,VA,Data_Centers_Database.xlsx
+,Not selected,Amazon Data Service: Orrock Rd,38.121346,-77.50528,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Mattameade Tech Campus,38.114647,-77.49115,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Mattameade Tech Campus,38.12168,-77.504196,False,Proposed,VA,Data_Centers_Database.xlsx
+,Not selected,Stack Data Center,36.5541,-79.59838,False,Proposed,VA ,Data_Centers_Database.xlsx
+,Not selected,Sabey Data Centers - Columbia,47.4067,-120.187,False,Operating,WA,Data_Centers_Database.xlsx
+,Not selected,Equinix Data Center,47.42195,-122.247,False,Operating,WA,Data_Centers_Database.xlsx
+,Not selected,TierPoint - Spokane Data Center (SPO03),47.67205,-117.096,False,Operating,WA,Data_Centers_Database.xlsx
+,Not selected,Centersquare Seattle Data Center (Lynnwood),47.84165,-122.302,False,Operating,WA,Data_Centers_Database.xlsx
+,Not selected,Digital Fortress Data Center,47.82266,-122.289,False,Operating,WA,Data_Centers_Database.xlsx
+,Not selected,Microsoft,47.3591,-120.159,False,Operating,WA,Data_Centers_Database.xlsx
+,Not selected,Bitfarm Bitcoin Washington,47.19689,-119.293205,False,Operating,WA,Data_Centers_Database.xlsx
+,Not selected,State Data Center,47.03483,-122.895,False,Operating,WA,Data_Centers_Database.xlsx
+,Not selected,North Olympic Peninsula Data Centers,48.04007,-122.785,False,Operating,WA,Data_Centers_Database.xlsx
+,Not selected,CyrusOne Quincy,47.24391,-119.87,False,Operating,WA,Data_Centers_Database.xlsx
+,Not selected,H5 Data Center,47.247917,-119.82491,False,Operating,WA,Data_Centers_Database.xlsx
+,Not selected,Vantage Data Center,47.24988,-119.814,False,Operating,WA,Data_Centers_Database.xlsx
+,Not selected,Atlas Agro,46.355118,-119.3108,False,Proposed,WA,Data_Centers_Database.xlsx
+,Not selected,Digital Fortress Seattle Data Center,47.49397,-122.294,False,Operating,WA,Data_Centers_Database.xlsx
+,Not selected,Digital Reality Data Center,47.614384,-122.33889,False,Operating,WA,Data_Centers_Database.xlsx
+,Not selected,Digital Reality Data Center,47.61257,-122.340096,False,Proposed,WA,Data_Centers_Database.xlsx
+,Not selected,H5 Data Centers,47.61901,-122.337,False,Operating,WA,Data_Centers_Database.xlsx
+,Not selected,Seattle EdgeConneX Edge Data Center® (EDC),47.49822,-122.29,False,Operating,WA,Data_Centers_Database.xlsx
+,Not selected,TierPoint - Seattle Data Center,47.61893,-122.349,False,Operating,WA,Data_Centers_Database.xlsx
+,Not selected,Centersquare Seattle Data Center (Tukwila 2),47.44046,-122.256,False,Operating,WA,Data_Centers_Database.xlsx
+,Not selected,Beaver Dam Meta Data Center,43.51469,-88.8214,False,Approved/Permitted/Under construction,WI,Data_Centers_Database.xlsx
+,Not selected,Edge Data Center,43.502884,-88.8095,False,Proposed,WI,Data_Centers_Database.xlsx
+,Not selected,Meta Data Center,42.57651,-88.99512,False,Proposed,WI,Data_Centers_Database.xlsx
+,Not selected,Carlton Cloverleaf Data Center,44.42317,-87.53463,False,Cancelled,WI,Data_Centers_Database.xlsx
+,Not selected,DeForest QTS Data Center,43.23184,-89.33042,False,Cancelled,WI,Data_Centers_Database.xlsx
+,Not selected,MKE1,42.86316,-87.9779,False,Operating,WI,Data_Centers_Database.xlsx
+,Not selected,Fredonia Data Center,43.45566,-87.9353,False,Proposed,WI,Data_Centers_Database.xlsx
+,Not selected,Cloverleaf Data Center,44.32815,-88.110405,False,Cancelled,WI,Data_Centers_Database.xlsx
+,Not selected,Janesville Data Center,42.65851,-89.0211,False,Proposed,WI,Data_Centers_Database.xlsx
+,Not selected,"""Project Cornmaze""",42.57651,-88.999855,False,Proposed,WI,Data_Centers_Database.xlsx
+,Not selected,Kenosha Microsoft Data Center,42.62348,-87.9679,False,Proposed,WI,Data_Centers_Database.xlsx
+,Not selected,Data center,43.093323,-87.9846,False,Proposed,WI,Data_Centers_Database.xlsx
+,Not selected,Microsoft Fairwater Data Center,42.68015,-87.90021,False,Approved/Permitted/Under construction,WI,Data_Centers_Database.xlsx
+,Not selected,Project Lighthouse,43.44933,-87.8525,False,Approved/Permitted/Under construction,WI,Data_Centers_Database.xlsx
+,Not selected,Caledonia Data Center,42.83487,-87.8458,False,Suspended,WI,Data_Centers_Database.xlsx
+,Not selected,Menomonie Data Center,44.92341,-91.8447,False,Suspended,WI,Data_Centers_Database.xlsx
+,Not selected,Microsoft Data Center,42.68763,-87.9269,False,Proposed,WI,Data_Centers_Database.xlsx
+,Not selected,Microsoft Data Center,42.70384,-87.9382,False,Proposed,WI,Data_Centers_Database.xlsx
+,Not selected,Digital Power Optimization,44.41945,-89.8253,False,Cancelled,WI,Data_Centers_Database.xlsx
+,Not selected,Google Buffalo Data Center,38.635235,-81.96641,False,Proposed,WV,Data_Centers_Database.xlsx
+,Not selected,Ridgeline Microgrid,39.13851,-79.4867,False,Approved/Permitted/Under construction,WV,Data_Centers_Database.xlsx
+,Not selected,Hog Lick Aggregates ,39.420273,-80.213455,False,Proposed,WV,Data_Centers_Database.xlsx
+,Not selected,Rhea super computing facility (NASA),39.430576,-80.196,False,Proposed,WV,Data_Centers_Database.xlsx
+,Not selected,Adams Fork Harless Data Center,37.75417,-82.1179,False,Proposed,WV,Data_Centers_Database.xlsx
+,Not selected,Alpha Technologies Data Center,38.41845,-82.4386,False,Approved/Permitted/Under construction,WV,Data_Centers_Database.xlsx
+,Not selected,QTS Kearneysville Data Center,39.33659,-77.85235,False,Proposed,WV,Data_Centers_Database.xlsx
+,Not selected,Penzance Management ,39.526875,-77.89455,False,Proposed,WV,Data_Centers_Database.xlsx
+,Not selected,NETL’s Computational Science & Engineering Center,39.67102,-79.975006,False,Approved/Permitted/Under construction,WV,Data_Centers_Database.xlsx
+,Not selected,Mountaineer Gigasystem/ Monarch Cloud Campus,38.9132,-82.1103,False,Proposed,WV,Data_Centers_Database.xlsx
+,Not selected,Adams Fork Wharncliffe Data Center,37.59904,-81.9545,False,Proposed,WV,Data_Centers_Database.xlsx
+,Not selected,Meta Data Center,41.08515,-104.833,False,Proposed,WY,Data_Centers_Database.xlsx
+,Not selected,Microsoft Azure Data Center,41.12372,-104.901,False,Approved/Permitted/Under construction,WY,Data_Centers_Database.xlsx
+,Not selected,Microsoft Cheyenne Data Center,41.06447,-104.77278,False,Proposed,WY,Data_Centers_Database.xlsx
+,Not selected,Project Jade,41.031693,-104.7964,False,Suspended,WY,Data_Centers_Database.xlsx
+,Not selected,Related Digital,41.137573,-104.71874,False,Proposed,WY,Data_Centers_Database.xlsx
+CAISO-1,CAISO,EdgeConneX Edge Data Center,38.59231,-121.277,True,,,caiso_finalized.csv
+CAISO-2,CAISO,EdgeCore Data Center,37.38413,-121.965744,True,,,caiso_finalized.csv
+CAISO-3,CAISO,Nautilus Data Technology,37.96411,-121.369,True,,,caiso_finalized.csv
+CAISO-4,CAISO,ECL,37.39589,-122.047,True,,,caiso_finalized.csv
+CAISO-5,CAISO,Cerebras Systems Data Center,37.38112,-121.993,True,,,caiso_finalized.csv
+ERCOT-1,ERCOT,Open AI/ SoftBank Stargate Data Center (Lancium Clean Campus),32.50204,-99.7907,True,,,ercot_load_zone_15min.csv
+ERCOT-2,ERCOT,Denton Data center,33.21948,-97.2129,True,,,ercot_load_zone_15min.csv
+ERCOT-3,ERCOT,QTS_Irving,32.89704,-96.9832,True,,,ercot_load_zone_15min.csv
+ERCOT-4,ERCOT,Houston One Data Center,29.803122,-95.75579,True,,,ercot_load_zone_15min.csv
+ERCOT-5,ERCOT,Oracle-Austin Data Center,30.38364,-97.6863,True,,,ercot_load_zone_15min.csv
+ERCOT-6,ERCOT,Microsoft San Antonio Data Center,29.47843,-98.693,True,,,ercot_load_zone_15min.csv
+ISONE-1,ISONE,First Light Data Center,42.928246,-71.46393,True,,,combined_ISONE_5min_lmp.csv
+ISONE-2,ISONE,Medford Data Center,42.40601,-71.0752,True,,,combined_ISONE_5min_lmp.csv
+ISONE-3,ISONE,Markely Data Center,42.6302,-71.304825,True,,,combined_ISONE_5min_lmp.csv
+PJM-1,PJM,Loudoun County Pkwy Data Center,39.01003,-77.46274,True,,,combined_PJM_5min_lmp.csv
+PJM-2,PJM,Viking Data Centers,41.050426,-81.4743,True,,,combined_PJM_5min_lmp.csv
+PJM-3,PJM,New Albany Meta Data Center/Prometheus,40.06873,-82.75027,True,,,combined_PJM_5min_lmp.csv
+PJM-4,PJM,Bitfarm Scrubgrass,41.26942,-79.81057,True,,,combined_PJM_5min_lmp.csv
+PJM-5,PJM,Bitfarm Bitcoin Panther Creek,40.8556,-75.8781,True,,,combined_PJM_5min_lmp.csv
+NYISO-1,NYISO,Orangeburg Data Center,41.0345,-73.9758,True,,,NYISO_zone_lmp_5min.csv
+NYISO-2,NYISO,Global AI,42.104294,-76.04444,True,,,NYISO_zone_lmp_5min.csv
+NYISO-3,NYISO,LGA1,40.717728,-74.00832,True,,,NYISO_zone_lmp_5min.csv
+NYISO-4,NYISO,BlockFusion aka North East Data Center LLC,43.083187,-79.00317,True,,,NYISO_zone_lmp_5min.csv
+NYISO-5,NYISO,North Tonawanda Data Center,43.06086,-78.85376,True,,,NYISO_zone_lmp_5min.csv

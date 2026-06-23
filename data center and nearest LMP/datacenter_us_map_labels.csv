@@ -1,0 +1,25 @@
+Map Label,Market,Data Center,Latitude,Longitude,Source File
+CAISO-1,CAISO,EdgeConneX Edge Data Center,38.59231,-121.277,caiso_finalized.csv
+CAISO-2,CAISO,EdgeCore Data Center,37.38413,-121.965744,caiso_finalized.csv
+CAISO-3,CAISO,Nautilus Data Technology,37.96411,-121.369,caiso_finalized.csv
+CAISO-4,CAISO,ECL,37.39589,-122.047,caiso_finalized.csv
+CAISO-5,CAISO,Cerebras Systems Data Center,37.38112,-121.993,caiso_finalized.csv
+ERCOT-1,ERCOT,Open AI/ SoftBank Stargate Data Center (Lancium Clean Campus),32.50204,-99.7907,ercot_load_zone_15min.csv
+ERCOT-2,ERCOT,Denton Data center,33.21948,-97.2129,ercot_load_zone_15min.csv
+ERCOT-3,ERCOT,QTS_Irving,32.89704,-96.9832,ercot_load_zone_15min.csv
+ERCOT-4,ERCOT,Houston One Data Center,29.803122,-95.75579,ercot_load_zone_15min.csv
+ERCOT-5,ERCOT,Oracle-Austin Data Center,30.38364,-97.6863,ercot_load_zone_15min.csv
+ERCOT-6,ERCOT,Microsoft San Antonio Data Center,29.47843,-98.693,ercot_load_zone_15min.csv
+ISONE-1,ISONE,First Light Data Center,42.928246,-71.46393,combined_ISONE_5min_lmp.csv
+ISONE-2,ISONE,Medford Data Center,42.40601,-71.0752,combined_ISONE_5min_lmp.csv
+ISONE-3,ISONE,Markely Data Center,42.6302,-71.304825,combined_ISONE_5min_lmp.csv
+PJM-1,PJM,Loudoun County Pkwy Data Center,39.01003,-77.46274,combined_PJM_5min_lmp.csv
+PJM-2,PJM,Viking Data Centers,41.050426,-81.4743,combined_PJM_5min_lmp.csv
+PJM-3,PJM,New Albany Meta Data Center/Prometheus,40.06873,-82.75027,combined_PJM_5min_lmp.csv
+PJM-4,PJM,Bitfarm Scrubgrass,41.26942,-79.81057,combined_PJM_5min_lmp.csv
+PJM-5,PJM,Bitfarm Bitcoin Panther Creek,40.8556,-75.8781,combined_PJM_5min_lmp.csv
+NYISO-1,NYISO,Orangeburg Data Center,41.0345,-73.9758,NYISO_zone_lmp_5min.csv
+NYISO-2,NYISO,Global AI,42.104294,-76.04444,NYISO_zone_lmp_5min.csv
+NYISO-3,NYISO,LGA1,40.717728,-74.00832,NYISO_zone_lmp_5min.csv
+NYISO-4,NYISO,BlockFusion aka North East Data Center LLC,43.083187,-79.00317,NYISO_zone_lmp_5min.csv
+NYISO-5,NYISO,North Tonawanda Data Center,43.06086,-78.85376,NYISO_zone_lmp_5min.csv
