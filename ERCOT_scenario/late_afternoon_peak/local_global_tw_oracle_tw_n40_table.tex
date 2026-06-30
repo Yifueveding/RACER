@@ -1,0 +1,17 @@
+\begin{table}[htbp]
+\centering
+\caption{Reward comparison for Thompson-Whittle variants with 40 sampled VM jobs per datacenter.}
+\label{tab:local_global_tw_n40}
+\setlength{\tabcolsep}{5pt}
+\resizebox{\linewidth}{!}{%
+\begin{tabular}{cc l cccc}
+\toprule
+$n_{\mathrm{dc}}$ & Budget & Policy & Oracle & Avg. reward & Reward / Oracle (\%) & $\Delta$ vs TW / Oracle (\%) \\
+\midrule
+5 & 2 & TW & 0.547 & -0.754 & -137.86 & +0.00 \\
+5 & 2 & ST & 0.547 & 0.414 & 75.67 & +213.53 \\
+5 & 2 & TM-TW & 0.547 & -0.675 & -123.30 & +14.55 \\
+\bottomrule
+\end{tabular}%
+}
+\end{table}

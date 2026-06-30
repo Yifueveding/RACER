@@ -40,7 +40,7 @@ def main() -> None:
     ax.set_xticks(tick_positions)
     ax.set_xticklabels(tick_labels, rotation=45, ha="right")
     ax.grid(True, alpha=0.25, linewidth=0.8)
-    ax.legend(fontsize=9, loc="upper right", frameon=False)
+    ax.legend(fontsize=9, loc="upper left", bbox_to_anchor=(0.01, 0.99), frameon=False, borderaxespad=0)
 
     fig.savefig(OUTPUT_PATH, dpi=180, bbox_inches="tight")
     plt.close(fig)
