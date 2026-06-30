@@ -361,6 +361,7 @@ def main() -> None:
             n_dc=n_dc,
             batch_size=base_cfg.batch_size,
             lookahead_size=base_cfg.lookahead_size,
+            lmp=base_cfg.lmp,
         )
         p_active_true, p_passive_true = build_true_transitions(
             n_states=base_cfg.n_jobs_sample,

@@ -50,6 +50,7 @@ class Config:
     replan_interval: int = 10
     transition_noise: float = 0.0
     reward_noise_std: float = 0.0
+    lmp: float = 0.03
     reward_prior_mean: float = 0.0
     reward_prior_var: float = 25.0
     reward_obs_var: float = 4.0
@@ -93,7 +94,17 @@ def build_reward_table(
     n_dc: int,
     batch_size: int,
     lookahead_size: int,
+    lmp: object = 0.03,
 ) -> np.ndarray:
+    lmp_values = np.asarray(lmp, dtype=float)
+
+    def lmp_for(s: int, dc: int) -> float:
+        if lmp_values.ndim == 0:
+            return float(lmp_values)
+        if lmp_values.ndim == 1:
+            return float(lmp_values[dc])
+        return float(lmp_values[s, dc])
+
     powers, corehrs, ch_norms, is_ints = [], [], [], []
     for dc, df in enumerate(raw_dfs[:n_dc]):
         df_s = df.sample(
@@ -116,7 +127,8 @@ def build_reward_table(
         sorted_pool = sorted(pool, key=lambda i: corehrs[dc][i])
         selected = sorted_pool[:batch_size]
         delayed = sorted_pool[batch_size:]
-        saving = sum(powers[dc][i] for i in default_batch) - sum(powers[dc][i] for i in selected)
+        energy_saving = sum(powers[dc][i] for i in default_batch) - sum(powers[dc][i] for i in selected)
+        saving = lmp_for(s, dc) * energy_saving
         penalty = sum(10.0 * ch_norms[dc][i] for i in delayed if is_ints[dc][i])
         return float(saving - penalty)
 
@@ -518,6 +530,7 @@ def main() -> None:
             n_dc=n_dc,
             batch_size=base_cfg.batch_size,
             lookahead_size=base_cfg.lookahead_size,
+            lmp=base_cfg.lmp,
         )
         p_active_true, p_passive_true = build_true_transitions(
             n_states=base_cfg.n_jobs_sample,

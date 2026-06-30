@@ -22,9 +22,11 @@ event_driven_TW/plots/local_global_tw_oracle_tw_n40_oracle_ratio.png
 from __future__ import annotations
 
 import argparse
+import glob
 import os
 import sys
 import time
+from pathlib import Path
 
 import matplotlib
 matplotlib.use("Agg")
@@ -36,24 +38,155 @@ REPO_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 if REPO_ROOT not in sys.path:
     sys.path.insert(0, REPO_ROOT)
 
-from Event_driven_TW_varying_data_center_jobs import (  # noqa: E402
-    BudgetOracleWhittlePolicy,
-    BudgetTrustMixedTWPolicy,
-    run_policy_budget,
-)
-from event_driven_TW.run_local_global_tw_varying_selected_dc import (  # noqa: E402
-    choose_datacenter_files,
-    list_datacenter_files,
-    parse_budget_map,
-    parse_int_list,
-)
-from multi_armed_bandits_mdp_thompson_whittle_greedy import (  # noqa: E402
-    Config,
-    GaussianPosterior,
-    RMABEnvironment,
-    build_reward_table,
-    build_true_transitions,
-)
+try:
+    from Event_driven_TW_varying_data_center_jobs import (  # noqa: E402
+        BudgetOracleWhittlePolicy,
+        BudgetTrustMixedTWPolicy,
+        run_policy_budget,
+    )
+    from event_driven_TW.run_local_global_tw_varying_selected_dc import (  # noqa: E402
+        choose_datacenter_files,
+        list_datacenter_files,
+        parse_budget_map,
+        parse_int_list,
+    )
+    from multi_armed_bandits_mdp_thompson_whittle_greedy import (  # noqa: E402
+        Config,
+        GaussianPosterior,
+        RMABEnvironment,
+        build_reward_table,
+        build_true_transitions,
+    )
+except ModuleNotFoundError:
+    from tmtw_ablation.multi_armed_bandits_ablation_trust_mixed import (  # noqa: E402
+        Config,
+        GaussianPosterior,
+        ThompsonWhittleBase,
+        build_reward_table,
+        build_true_transitions,
+        compute_whittle_table,
+    )
+
+    def parse_int_list(text: str) -> list[int]:
+        return [int(part.strip()) for part in text.split(",") if part.strip()]
+
+    def parse_budget_map(text: str) -> dict[int, int]:
+        out: dict[int, int] = {}
+        for part in text.split(","):
+            if not part.strip():
+                continue
+            key, value = part.split(":", 1)
+            out[int(key.strip())] = int(value.strip())
+        return out
+
+    def list_datacenter_files() -> list[str]:
+        pattern = os.path.join(REPO_ROOT, "datasets", "datacenter_with_metrics", "datacenter_*_with_metrics.csv")
+        def dc_num(path: str) -> int:
+            return int(Path(path).stem.split("_")[1])
+        return sorted(glob.glob(pattern), key=dc_num)
+
+    def choose_datacenter_files(files: list[str], n_dc: int, seed: int):
+        rng = np.random.default_rng(seed)
+        idx = np.sort(rng.choice(len(files), size=n_dc, replace=False))
+        selected = [files[int(i)] for i in idx]
+        raw_dfs = [pd.read_csv(path) for path in selected]
+        dc_ids = [int(Path(path).stem.split("_")[1]) for path in selected]
+        return raw_dfs, dc_ids, selected
+
+    class RMABEnvironment:
+        def __init__(self, reward_table, p_active, p_passive, reward_noise_std, rng_seed):
+            self.R = reward_table
+            self.Pa = p_active
+            self.Pp = p_passive
+            self.n_states, self.n_dc = self.R.shape
+            self.reward_noise_std = reward_noise_std
+            self.rng = np.random.default_rng(rng_seed)
+
+        def reset(self) -> np.ndarray:
+            return np.zeros((self.n_dc,), dtype=int)
+
+        def step_multi(self, states: np.ndarray, chosen_arms: list[int]) -> tuple[np.ndarray, np.ndarray, float]:
+            chosen = set(int(arm) for arm in chosen_arms)
+            next_states = np.zeros_like(states)
+            per_arm_rewards = np.zeros((self.n_dc,), dtype=float)
+            total_reward = 0.0
+            for dc in range(self.n_dc):
+                s = int(states[dc])
+                is_active = dc in chosen
+                p = self.Pa[dc, s] if is_active else self.Pp[dc, s]
+                next_states[dc] = int(self.rng.choice(self.n_states, p=p))
+                if is_active:
+                    noise = self.rng.normal(0.0, self.reward_noise_std) if self.reward_noise_std > 0 else 0.0
+                    per_arm_rewards[dc] = float(self.R[s, dc] + noise)
+                    total_reward += per_arm_rewards[dc]
+            return next_states, per_arm_rewards, float(total_reward)
+
+    class BudgetOracleWhittlePolicy:
+        def __init__(self, reward_table, p_active, p_passive, cfg):
+            self.W = compute_whittle_table(reward_table.T, p_active, p_passive, cfg)
+            self.n_dc = reward_table.shape[1]
+            self.arm_ids = np.arange(self.n_dc, dtype=int)
+
+        def select_arms(self, states: np.ndarray, _t: int, budget: int) -> list[int]:
+            scores = self.W[states, self.arm_ids]
+            return list(np.argsort(scores)[-budget:][::-1])
+
+        def update_multi(self, states, chosen_arms, per_arm_rewards, next_states):
+            pass
+
+    class BudgetTrustMixedTWPolicy(ThompsonWhittleBase):
+        def select_arms(self, states: np.ndarray, t: int, budget: int) -> list[int]:
+            if t < self.cfg.mix_warmup_rounds:
+                return [int((t + offset) % self.n_dc) for offset in range(budget)]
+            eps_t = self._linear_decay(t, self.cfg.mix_eps_start, self.cfg.mix_eps_end, self.cfg.mix_eps_decay_rounds)
+            if self.rng.random() < eps_t:
+                return list(self.rng.choice(self.n_dc, size=budget, replace=False).astype(int))
+            self._maybe_replan(t)
+            whittle_raw = self._whittle_scores(states)
+            greedy_raw = self._greedy_score(states, t)
+            trust_t = self._compute_trust_index(states, t)
+            whittle_score = normalize_scores_01(whittle_raw)
+            greedy_score = normalize_scores_01(greedy_raw)
+            mixed_score = trust_t * whittle_score + (1.0 - trust_t) * greedy_score
+            return list(np.argsort(mixed_score)[-budget:][::-1])
+
+        def update_multi(
+            self,
+            states: np.ndarray,
+            chosen_arms: list[int],
+            per_arm_rewards: np.ndarray,
+            next_states: np.ndarray,
+        ) -> None:
+            self._actions_buf.fill(0)
+            for arm in chosen_arms:
+                arm = int(arm)
+                s_sel = int(states[arm])
+                reward = float(per_arm_rewards[arm])
+                self.reward_post.update((arm, s_sel), reward)
+                self.arm_pull_counts[arm] += 1.0
+                self.arm_reward_sums[arm] += reward
+                self._actions_buf[arm] = 1
+            self.trans_post.alpha[self.arm_ids, states, self._actions_buf, next_states] += 1.0
+            self.trans_post.visit_counts[self.arm_ids, states, self._actions_buf] += 1.0
+
+    def normalize_scores_01(scores):
+        s_min, s_max = float(np.min(scores)), float(np.max(scores))
+        if s_max - s_min < 1e-12:
+            return np.zeros_like(scores, dtype=float)
+        return (scores - s_min) / (s_max - s_min)
+
+    def run_policy_budget(env, policy, n_rounds: int, budget: int):
+        states = env.reset()
+        rewards = np.zeros((n_rounds,), dtype=float)
+        chosen = np.zeros((n_rounds, budget), dtype=int)
+        for t in range(n_rounds):
+            chosen_arms = policy.select_arms(states, t, budget)
+            next_states, per_arm_rewards, reward = env.step_multi(states, chosen_arms)
+            policy.update_multi(states, chosen_arms, per_arm_rewards, next_states)
+            rewards[t] = reward
+            chosen[t, :] = chosen_arms
+            states = next_states
+        return rewards, chosen
 
 
 POLICIES = [
@@ -194,6 +327,7 @@ def run_experiment(args: argparse.Namespace) -> tuple[pd.DataFrame, pd.DataFrame
                 n_dc=n_dc,
                 batch_size=Config().batch_size,
                 lookahead_size=Config().lookahead_size,
+                lmp=args.lmp,
             )
             p_active, p_passive = build_true_transitions(
                 n_states=args.n_jobs,
@@ -262,6 +396,165 @@ def run_experiment(args: argparse.Namespace) -> tuple[pd.DataFrame, pd.DataFrame
             )
 
     return pd.DataFrame(summary_rows), pd.DataFrame(round_rows)
+
+
+def load_ercot_lmp_vector(time_col: str) -> tuple[np.ndarray, pd.DataFrame]:
+    ercot_path = Path(REPO_ROOT) / "data center and nearest LMP" / "ERCOT_finalized.csv"
+    ercot_df = pd.read_csv(ercot_path, skiprows=1)
+    selected = ercot_df.iloc[1:6].copy().reset_index(drop=True)
+    if time_col not in selected.columns:
+        raise ValueError(f"ERCOT LMP time column {time_col!r} was not found")
+    selected["lmp_usd_per_mwh"] = pd.to_numeric(selected[time_col], errors="raise")
+    selected["lmp_usd_per_kwh"] = selected["lmp_usd_per_mwh"] / 1000.0
+    return selected["lmp_usd_per_kwh"].to_numpy(dtype=float), selected
+
+
+def run_ercot_timepoint(args: argparse.Namespace, label: str, time_col: str) -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
+    seeds = parse_int_list(args.seeds)
+    n_dc = 5
+    budget = parse_budget_map(args.budget_map).get(n_dc, 2)
+    all_files = list_datacenter_files()
+    raw_dfs = [pd.read_csv(path) for path in all_files[:n_dc]]
+    workload_ids = [int(Path(path).stem.split("_")[1]) for path in all_files[:n_dc]]
+    lmp_vector, ercot_meta = load_ercot_lmp_vector(time_col)
+    ercot_names = ercot_meta["Data Center"].tolist()
+
+    summary_rows: list[dict] = []
+    round_rows: list[dict] = []
+
+    print(
+        f"ERCOT scenario {label} ({time_col}) | n_dc={n_dc} | budget={budget} | "
+        f"n_jobs={args.n_jobs} | rounds={args.rounds} | seeds={seeds}"
+    )
+    print("LMP $/kWh:", ", ".join(f"{name}={value:.5f}" for name, value in zip(ercot_names, lmp_vector)))
+
+    for seed in seeds:
+        reward_table = build_reward_table(
+            raw_dfs=raw_dfs,
+            random_state=seed,
+            n_jobs_sample=args.n_jobs,
+            n_dc=n_dc,
+            batch_size=Config().batch_size,
+            lookahead_size=Config().lookahead_size,
+            lmp=lmp_vector,
+        )
+        p_active, p_passive = build_true_transitions(
+            n_states=args.n_jobs,
+            batch_size=Config().batch_size,
+            n_dc=n_dc,
+        )
+
+        run_cache: dict[str, tuple[np.ndarray, np.ndarray, float]] = {}
+        for policy_name in POLICIES:
+            cfg = make_cfg(n_dc=n_dc, n_jobs=args.n_jobs, rounds=args.rounds, seed=seed, policy=policy_name)
+            cfg.vi_max_iters = args.vi_max_iters
+            cfg.binary_iters = args.binary_iters
+            cfg.replan_interval = args.replan_interval
+            rewards, chosen, wall_time = run_policy_once(
+                policy_name=policy_name,
+                reward_table=reward_table,
+                p_active=p_active,
+                p_passive=p_passive,
+                cfg=cfg,
+                seed=seed,
+                budget=budget,
+            )
+            run_cache[policy_name] = (rewards, chosen, wall_time)
+
+        oracle_rewards = run_cache["Oracle Whittle"][0]
+        oracle_avg = float(np.mean(oracle_rewards))
+
+        for policy_name in POLICIES:
+            rewards, chosen, wall_time = run_cache[policy_name]
+            avg_reward = float(np.mean(rewards))
+            summary_rows.append({
+                "scenario": label,
+                "ercot_time": time_col,
+                "seed": seed,
+                "n_dc": n_dc,
+                "n_jobs": args.n_jobs,
+                "budget": budget,
+                "workload_datacenter_ids": "|".join(map(str, workload_ids)),
+                "ercot_datacenters": "|".join(ercot_names),
+                "policy": policy_name,
+                "avg_reward": avg_reward,
+                "cum_reward": float(np.sum(rewards)),
+                "oracle_avg_reward": oracle_avg,
+                "cum_reward_over_oracle_pct": 100.0 * avg_reward / max(oracle_avg, 1e-12),
+                "avg_wall_time_s": wall_time,
+            })
+
+            running_avg = np.cumsum(rewards) / np.arange(1, args.rounds + 1)
+            for t, (reward, run_avg) in enumerate(zip(rewards, running_avg), start=1):
+                row = {
+                    "scenario": label,
+                    "ercot_time": time_col,
+                    "seed": seed,
+                    "n_dc": n_dc,
+                    "n_jobs": args.n_jobs,
+                    "budget": budget,
+                    "policy": policy_name,
+                    "round": t,
+                    "reward": float(reward),
+                    "running_avg_reward": float(run_avg),
+                }
+                for slot in range(budget):
+                    local_idx = int(chosen[t - 1, slot])
+                    row[f"selected_ercot_datacenter_{slot + 1}"] = ercot_names[local_idx]
+                    row[f"selected_lmp_usd_per_kwh_{slot + 1}"] = float(lmp_vector[local_idx])
+                    row[f"selected_workload_datacenter_id_{slot + 1}"] = int(workload_ids[local_idx])
+                round_rows.append(row)
+
+        print(
+            f"{label} seed={seed} oracle={oracle_avg:.3f} "
+            f"tw={np.mean(run_cache['TW only'][0]):.3f} "
+            f"state={np.mean(run_cache['State Thompson'][0]):.3f} "
+            f"local_global={np.mean(run_cache['Local + Global + TW'][0]):.3f}",
+            flush=True,
+        )
+
+    return pd.DataFrame(summary_rows), pd.DataFrame(round_rows), ercot_meta
+
+
+def run_ercot_scenarios(args: argparse.Namespace) -> None:
+    scenarios = [
+        ("early_morning", args.ercot_early_time),
+        ("late_afternoon_peak", args.ercot_peak_time),
+    ]
+    os.makedirs(args.output_dir, exist_ok=True)
+    all_summary = []
+    all_rounds = []
+    all_meta = []
+
+    for label, time_col in scenarios:
+        scenario_dir = os.path.join(args.output_dir, label)
+        os.makedirs(scenario_dir, exist_ok=True)
+        summary_df, round_df, ercot_meta = run_ercot_timepoint(args, label, time_col)
+        summary_df.to_csv(os.path.join(scenario_dir, "local_global_tw_oracle_tw_n40_summary.csv"), index=False)
+        round_df.to_csv(os.path.join(scenario_dir, "local_global_tw_oracle_tw_n40_round_rewards.csv"), index=False)
+        ercot_meta.to_csv(os.path.join(scenario_dir, "ercot_lmp_metadata.csv"), index=False)
+        plot_results(summary_df, scenario_dir)
+        plot_running_average_rewards(round_df, scenario_dir)
+        write_comparison_table(summary_df, scenario_dir)
+        all_summary.append(summary_df)
+        all_rounds.append(round_df)
+        meta = ercot_meta.copy()
+        meta.insert(0, "scenario", label)
+        meta.insert(1, "ercot_time", time_col)
+        all_meta.append(meta)
+
+    pd.concat(all_summary, ignore_index=True).to_csv(
+        os.path.join(args.output_dir, "ercot_scenario_summary.csv"),
+        index=False,
+    )
+    pd.concat(all_rounds, ignore_index=True).to_csv(
+        os.path.join(args.output_dir, "ercot_scenario_round_rewards.csv"),
+        index=False,
+    )
+    pd.concat(all_meta, ignore_index=True).to_csv(
+        os.path.join(args.output_dir, "ercot_lmp_metadata.csv"),
+        index=False,
+    )
 
 
 def plot_results(summary_df: pd.DataFrame, output_dir: str) -> None:
@@ -552,13 +845,26 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--seeds", default="42,43")
     parser.add_argument("--rounds", type=int, default=600)
     parser.add_argument("--budget-map", default="3:1,5:2,8:3,10:4")
+    parser.add_argument("--lmp", type=float, default=0.03, help="Electricity price multiplier in $/kWh.")
+    parser.add_argument("--ercot-scenario", action="store_true", help="Run the five-datacenter ERCOT LMP scenario.")
+    parser.add_argument("--ercot-early-time", default="03:00", help="ERCOT LMP time column for the early-morning scenario.")
+    parser.add_argument("--ercot-peak-time", default="19:00", help="ERCOT LMP time column for the late-afternoon peak scenario.")
+    parser.add_argument("--vi-max-iters", type=int, default=60, help="Value-iteration cap for Whittle index solves.")
+    parser.add_argument("--binary-iters", type=int, default=6, help="Binary-search iterations for Whittle index solves.")
+    parser.add_argument("--replan-interval", type=int, default=50, help="TW replan interval in rounds.")
     parser.add_argument("--output-dir", default="event_driven_TW")
     return parser.parse_args()
 
 
 def main() -> None:
     args = parse_args()
+    if args.ercot_scenario and args.output_dir == "event_driven_TW":
+        args.output_dir = "ERCOT_scenario"
     os.makedirs(args.output_dir, exist_ok=True)
+
+    if args.ercot_scenario:
+        run_ercot_scenarios(args)
+        return
 
     summary_df, round_df = run_experiment(args)
 
